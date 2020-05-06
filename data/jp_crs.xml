@@ -26,16 +26,16 @@
   <text>
     <body>
       <div type="Header" xml:id="Hd">
-        <head>No. 1  1947年10月20日  在日本朝鮮學生同盟兵庫縣支部機關紙  月 刊 第二號</head><lb/> 
+        <head>No. 1  1947年10月20日  在日本朝鮮學生同盟兵庫縣支部機關紙  月 刊 第二號</head><lb/>
       </div>
-      
+
       <div type="TitleInfo" xml:id="TiIn">
         <div></div>
         <div type="Title" xml:id="Ti">
           <head><distinct type="stacked">朝鮮</distinct>留學𦍌新聞</head>
           <head>THE KOREAN STUDENT PRESS <lb/>IN HYO<del rend="overwritten">D</del><add place="superimposed">G</add>O</head>
         </div>
-        
+
         <div type="Publishing" xml:id="Pb">
           <p style="hr">發行所 <address>
             <addrLine>神戸市生田區三宮町<lb/> 　２丁目 電話元町３２９８番</addrLine>
@@ -45,13 +45,13 @@
           </p>
         </div>
       </div>
-      
+
       <lb/>
       <div type="Article" xml:id="Ac01">
-        <div type="SecTitle"><head style="font-size:20px">獨立の秋</head></div>
-        
+        <head style="font-size:20px">獨立の秋</head>
+
         <div type="Section" xml:id="Sn01">
-          <p style="font-size:17px">「<name type="plan">マ<g>ー</g>シャル提議</name>と撤兵案<lb/>臨時政府喫う數ヶ月内に生きる？<lb/> 統一すれば自立可能か<lb/></p>
+          <head style="vr">「<name type="plan">マ<g>ー</g>シャル提議</name>と撤兵案<lb/>臨時政府喫う數ヶ月内に生きる？<lb/> 統一すれば自立可能か<lb/></head>
             <p>先に朝鮮統一臨時政府樹立のため米ソ兩國が多くの努<lb/> 力を拂った共同委員會も、その完全なる使命の遂行は<lb/>不可能だと、<country key="US"
               >米國</country>が<name type="plan">四國會議の提唱</name>、 <orgName>
               <distinct type="outdated">國連</distinct></orgName>への提訴と<lb/> 獨自のコ<g>ー</g>スをたどり、<date
@@ -83,7 +83,7 @@
             を待ってゐると評價し<lb/>てゐる。それにはしっかりした政<lb/> 府と、そして直ちに財政的、技術<lb/>的、行政的な援助を必要とする<distinct
               type="spelling">だ<lb/>らう</distinct>」と。</p>
         </div>
-        
+
         <div type="Section" xml:id="Sn02">
           <head style="vr">米新提案</head>
           <p>さきにのべた米新提案はつぎの<lb/>線に沿ったものである。</p>
@@ -95,7 +95,7 @@
           <p>一、米ソ兩占領案の實際の撤兵時<lb/>期は<distinct type="outdated">國連</distinct>の會議を開いたうえ米<lb/>
             ・ソ・朝三者間の恊定によって<lb/>決定する </p>
         </div>
-        
+
         <div type="Section" xml:id="Sn03">
           <head style="vr">ソ聯徹兵案</head>
           <p>米ソ公同委員會のソ連代表は<date when="1947-09-26">九<lb/>月二十六日</date>ソ連側の要求によって<lb/>
@@ -103,7 +103,7 @@
             割する立ソ兩軍の撤退を希望して<lb/>ゐる、いまや朝鮮人民の混亂を克<lb/> 服して、自主的臨時政府の段階に達<lb/>し、米ソ兩國への撤退要望は絶對<lb/>
             的なものがある」と語った </p>
         </div>
-        
+
         <div type="Section" xml:id="Sn04">
           <head style="vr">☆南鮮反對・北鮮支持</head>
           <p>北鮮では北朝鮮勞働黨を始め各<lb/>政黨、社會團體は<date when="1947-10-27">二十七日</date>それぞ<lb/>
@@ -115,7 +115,7 @@
             >又金奎植氏</name>も反<lb/> 對しておりいずれも撤兵が行われ<lb/> る場合は北鮮の朝鮮人部隊に對抗<lb/>出來る武器と軍隊を訓煉すべきだ<lb/>
             と提唱してゐる。</p>
         </div>
-        
+
         <div type="Section" xml:id="Sn05">
           <head style="vr"><name type="person">金龍中氏</name> (<orgName>在美國朝鮮人協會</orgName>會長)<lb/> 五小國委員會提唱</head>
           <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<name type="person">金龍中<lb/> 氏</name>は<country key="US"
@@ -135,7 +135,7 @@
               >國連</distinct>に誓<lb/>うべきである」とのべてゐる。金<lb/> 氏の主張は率直に我々の氣持ちを<lb/>表し、朝鮮は解放された國であ<lb/>
             ると<distinct type="outdated"><distinct type="spelling">云ふ</distinct></distinct>事を主張せんとしてゐる </p>
         </div>
-        
+
         <div type="Section" xml:id="Sn06">
           <head style="vr">全<distinct type="outdated">國</distinct>在日朝鮮<distinct type="outdated">學生</distinct><lb/>社<distinct type="outdated">會</distinct>
             思想討論<distinct type="outdated">會</distinct></head>
@@ -159,7 +159,7 @@
 
           <p>以上の如き結論を單なる空想的な<lb/>机上論として消さず直接<distinct type="outdated">實</distinct>踐行<distinct type="outdated">爲</distinct><lb/> を以って<distinct type="outdated">鬪爭</distinct>せんことを決議した </p>
         </div>
-        
+
         <div type="Section" xml:id="Sn07">
           <head>PEN</head>
           <p> △<distinct type="outdated">曾つて</distinct>ナポレオンの「<lb/>不可能」は佛語にあら<lb/>ずといつた。文豪<persName>アン<lb/>ドレ・モロワ</persName>も「君の<lb/>欲するのが可能ならそれはもう<lb/>
@@ -171,61 +171,61 @@
             についての多くの醫<lb/>者が診斷を下して<distinct type="spelling">ゐる</distinct>。しかし<lb/>あまり多くの診斷は我々を惑は<lb/>せ、且つかえつて<distinct type="outdated">惡化</distinct>
             せしめる<lb/>ことになる、よりよき診斷は分裂<lb/>を意味するのでは決してなく、<lb/>統一出來ると<distinct type="spelling">いふ</distinct>それである、<lb/>過去三十六年間の歷史は明らか<lb/>
             に統一出來るということを吾々<lb/>に<distinct type="spelling">示してゐる</distinct>。徒外部のみを見<lb/>て診斷を下すのは彼自身<distinct type="outdated">藪醫者</distinct><lb/>に過ぎないと<distinct type="outdated">云う</distinct><distinct type="outdated">證據</distinct>である。
-          </p>      
-      </div>  
+          </p>
+      </div>
      </div>
-      
-      
+
+
      <div type="Article" xml:id="Ac02">
-       <head style="vr">祖<distinct type="outdated">國</distinct>通信</head>  
+       <head style="vr">祖<distinct type="outdated">國</distinct>通信</head>
        <div type="Section" xml:id="Sn08">
          <head style="vr">朝鮮文字記念日<lb/>「十月九日解放後第三回」の目<lb/>を<distinct type="spelling">迎へる</distinct>。</head>
          <p>「ハングルナル」とは朝鮮文字<lb/>（ハングル）記念日のことで李朝<lb/>第四式〇宗二十八年丙寅九月〇日<lb/>即ち一四四年十月二十九日訓民正<lb/>音として<distinct type="outdated">發表</distinct><distinct type="outdated">奬勵</distinct>した表音文字で<lb/>現在は字母二十四文字になってい<lb/>
            る朝鮮文字の<distinct type="outdated">發表</distinct>記念日である。</p>
        </div>
-       
+
        <div type="Section" xml:id="Sn09">
          <head style="vr"><distinct type="outdated">國大案反對</distinct>の<distinct type="outdated">聲明</distinct></head>
          <p>（<distinct type="outdated">京城發</distinct>KNSー<distinct type="outdated">東亞</distinct>）<distinct type="outdated"><orgName>國大案反<lb/>對共同鬪爭委員會</orgName></distinct>では現情勢に<distinct type="outdated">對<lb/>處</distinct>して教育民主化を促進する
            <distinct type="outdated">爲</distinct>三<lb/>十一日左の如き<distinct type="outdated">聲明</distinct>を<distinct type="outdated">發表</distinct>した</p>
-         
+
          <p>一、<distinct type="outdated">國大案</distinct>は反動性と、その提出<lb/>者の反民族的<distinct type="outdated">意圖</distinct>を指摘する</p>
          <p>二、近き<distinct type="outdated">將來</distinct>に樹立する南北統一<lb/>民主臨時政府に<distinct type="outdated">對し</distinct><distinct type="outdated">國大案撤回</distinct><lb/>を全<distinct type="outdated">學</distinct>徒の<distinct type="outdated">名儀</distinct>で要求する事の
            <lb/>出來る條件を確保する</p>
          <p>三、理事<distinct type="outdated">會</distinct>改選、<distinct type="outdated">總</distinct>長交代</p>
          <p>四、反動教育策打破民主臨時政<lb/>府樹立と◯委再開促進等協力に<lb/>成功成果を揚げこの運動に長期<lb/>化して<distinct type="outdated">學校當局</distinct>の情実<distinct type="outdated">留學</distinct>と脱<lb/>落者の糾合策動する危性のある<lb/>ことを指摘する。</p>
-         
+
          <p>國大案を反對して今年二月南朝<lb/>鮮<unclear reason="faded">十</unclear>萬の男女<distinct type="outdated">學</distinct>生が一<distinct type="outdated">齊</distinct>にけつ起こ<lb/>した以後、六ヶ月<distinct type="outdated">餘掛り</distinct>反動的<distinct type="outdated">國</distinct><lb/>
            大案撤回に努力すると共に左の要<lb/>求<distinct type="outdated">條項</distinct>を<distinct type="spelling"><distinct type="outdated">發表</distinct>してゐる</distinct>。</p>
-         
+
          <p>一、進步的<distinct type="outdated">學</distinct>生の<distinct type="outdated">無條件復舊</distinct></p>
          <p>二、<distinct type="outdated">學</distinct>生自治<distinct type="outdated">權</distinct>を復職</p>
          <p>三、<distinct type="outdated">舊</distinct>教授の復職</p>
-         <p>四、<distinct type="outdated">學</distinct>園に<distinct type="outdated">對</distinct>する警察干涉中止の<lb/>保障</p>  
+         <p>四、<distinct type="outdated">學</distinct>園に<distinct type="outdated">對</distinct>する警察干涉中止の<lb/>保障</p>
        </div>
-       
+
        <div type="Section" xml:id="Sn10">
          <head style="vr"><distinct type="spelling">ベニシリン</distinct>培養に成功<lb/>金曜成大學醫學部にて</head>
          <p>（二十五日<distinct type="outdated">發</distinct>北朝通）同大<distinct type="outdated">學醫學<lb/>部</distinct>にてはベニシリン原<distinct type="outdated">菌</distinct>培養を研<lb/>究中だつたが成功したと<distinct type="outdated">發表</distinct>した<lb/>「研究に精進中だつたがその基本<lb/>構造の研究を完遂し強力
            <distinct type="outdated">菌</distinct>の培養<lb/>方法も成功した。今迄製造された<lb/><distinct type="spelling">ベニシリン</distinct>の外科的治療の<distinct type="outdated">試驗</distinct>は<lb/>良い結果を見たいと創立一週年記<lb/>念<distinct type="outdated">學術講演會</distinct>で研究結果を公開し<lb/>た。</p>
        </div>
       </div>
-      
-      
+
+
       <div type="Article" xml:id="Ac03">
         <head>主張</head>
         <head style="vr"><distinct type="outdated">學</distinct>同の在り方</head>
         <p></p>
-        
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
       </div>
-      
-      
+
+
     </body>
   </text>
 

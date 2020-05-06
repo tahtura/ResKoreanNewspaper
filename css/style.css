@@ -36,10 +36,14 @@ tei-div[type=Section] {
   flex-direction: row-reverse;
   flex-wrap: wrap;
   font-size: 14px;
-  margin: 30px;
 }
+
+tei-div[type=Section] p {
+  flex: 4;
+}
+
 /*Specifically for the one horizontal heading of the article.*/
-tei-div[type=SecTitle] {
+tei-head {
   text-align: right;
   font-size: 17px;
 }
