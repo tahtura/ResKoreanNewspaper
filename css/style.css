@@ -1,0 +1,125 @@
+/* Add your own CSS rules here */
+#description {
+  margin: 0 0 1em 0;
+}
+
+
+tei-teiHeader {
+  display: none;
+}
+
+/*Creates Right to Left grid for text based on divisions in XML.
+Also adds padding so that sections are not too close*/
+
+/*Adjusting TitleInfo*/
+tei-div[type=Header] {
+  font-size:12px;
+  text-align:center;
+}
+
+tei-div[type=Title] {
+  text-align: center;
+}
+
+tei-div[type=TitleInfo] {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+tei-div[type=Publishing] {
+  font-size: 12px;
+}
+/*Specific instructions for each article section*/
+tei-div[type=Section] {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  font-size: 14px;
+  margin: 30px;
+}
+/*Specifically for the one horizontal heading of the article.*/
+tei-div[type=SecTitle] {
+  text-align: right;
+  font-size: 17px;
+}
+
+
+
+/*Instructions for writing mode for both head elements
+and paragraph elements. Some paragraph elements are horizontal,
+so this distinguishes them*/
+
+tei-head[style=vr] {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+
+tei-p[style=hr] {
+  writing-mode: horizontal-tb;
+}
+
+
+tei-p {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  margin: 8px;
+}
+
+/*Text-orientation correction*/
+tei-g {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+}
+
+
+
+/*Specific instructions for TEI Elements*/
+
+/*strikes through overwritten text*/
+tei-del[rend=overwritten] {
+  text-decoration: line-through;
+}
+
+/*makes any historical orthography blue*/
+tei-distinct[type=orthography] {
+  color: blue;
+}
+
+/*Makes any archaic kanji red*/
+tei-distinct[type=archaic] {
+  color: red;
+}
+
+/*Makes person names orange*/
+tei-persName {
+  color: orange;
+}
+
+/*Makes organization names pink*/
+tei-orgName {
+  color: pink;
+}
+
+/*Makes historically significant plan names and dates purple*/
+tei-name[type=plan] {
+  color: purple;
+}
+
+tei-date {
+  color: purple;
+}
+
+/*Makes places green*/
+tei-address {
+  color: green;
+}
+
+tei-placeName {
+  color: green;
+}
+
+tei-country {
+  color: green;
+}

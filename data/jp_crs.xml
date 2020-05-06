@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_jp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schema/tei_jp.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI with a Japanese Resident Korean Student Newspaper</title>
+        <author>Tahura H. Turabi</author>
+        <respStmt>
+          <name>Tahura Huda Turabi</name>
+          <resp>Transcription and Translation</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Digital scan of Chosen Ryugakusei Shimbun, held at the Gordon W. Prange Collection, University of Maryland Libraries.</p>
+        <p>Japanese body text is rendered vertical right-to-left.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="Header" xml:id="Hd">
+        <head>No. 1  1947年10月20日  在日本朝鮮學生同盟兵庫縣支部機關紙  月 刊 第二號</head><lb/> 
+      </div>
+      
+      <div type="TitleInfo" xml:id="TiIn">
+        <div></div>
+        <div type="Title" xml:id="Ti">
+          <head><distinct type="stacked">朝鮮</distinct>留學𦍌新聞</head>
+          <head>THE KOREAN STUDENT PRESS <lb/>IN HYO<del rend="overwritten">D</del><add place="superimposed">G</add>O</head>
+        </div>
+        
+        <div type="Publishing" xml:id="Pb">
+          <p style="hr">發行所 <address>
+            <addrLine>神戸市生田區三宮町<lb/> 　２丁目 電話元町３２９８番</addrLine>
+          </address> 在日本朝鮮學生同盟兵庫縣支部<lb/> 　發行人 <persName>全 成 林</persName><lb/> 　編 集 文 化 部<lb/> 印刷所<address>
+            <addrLine>神戸市長田區東尻池<lb/> 　町4丁目３５　電話湊川３６９４番</addrLine>
+          </address> 　東　邦　印　刷　有　限　會 社<lb/>
+          </p>
+        </div>
+      </div>
+      
+      <lb/>
+      <div type="Article" xml:id="Ac01">
+        <div type="SecTitle"><head style="font-size:20px">獨立の秋</head></div>
+        
+        <div type="Section" xml:id="Sn01">
+          <p style="font-size:17px">「<name type="plan">マ<g>ー</g>シャル提議</name>と撤兵案<lb/>臨時政府喫う數ヶ月内に生きる？<lb/> 統一すれば自立可能か<lb/></p>
+            <p>先に朝鮮統一臨時政府樹立のため米ソ兩國が多くの努<lb/> 力を拂った共同委員會も、その完全なる使命の遂行は<lb/>不可能だと、<country key="US"
+              >米國</country>が<name type="plan">四國會議の提唱</name>、 <orgName>
+              <distinct type="outdated">國連</distinct></orgName>への提訴と<lb/> 獨自のコ<g>ー</g>スをたどり、<date
+              when="1947-09-21">九月二十一日</date>の <orgName><distinct type="outdated"
+                >國連總會運營<lb/>委員會</distinct></orgName>で、十二對二票で<orgName><distinct type="outdated">
+                國連</distinct></orgName>への上程が可決された<lb/> その<distinct type="outdated"
+              >矢光</distinct>に<country key="RU">ソ連</country>から共同委員會に對し<country key="KR"
+            >朝鮮</country>の米ソ兩國<lb/>同時撤退が提案された</p>
+
+          <p>一方<date when="1947-10-07">七日</date><placeName>ニュヨ<g>ー</g>ク發AP</placeName>特電<lb/>では<orgName>
+              <distinct type="outdated">國連總會</distinct></orgName>は<name type="plan"
+            >マ<g>ー</g>シャル提議</name>に<lb/> もとづき<orgName><distinct type="outdated"
+            >國連</distinct></orgName>の監視のもとに數ヶ<lb/>月間に自ら獨立樹立に着手の骨組<lb/>
+            とする提案を最後的に仕上けてお<lb/>り、米代表部關係者の言明による<lb/> と、<country key="US"
+              >米國</country>はこの提案を具體的に示<lb/>すとともに、米ソ占領軍が<country key="KR">朝鮮</country>か<lb/>
+                ら撤兵すべき時期を決定する責任<lb/>の一部を<orgName><distinct type="outdated"
+              >國連</distinct></orgName>と<country key="KR">朝鮮</country>に <distinct type="outdated"
+              >分擔</distinct>させる<lb/> ことにならうが細部の決定を残し<lb/>てはほとんど完成した。</p>
+
+          <p>又<placeName>京城</placeName>にて<persName>トム・ランバ<g>ー</g>ト</persName><roleName type="honorific"
+              >氏</roleName><lb/> の<distinct type="spelling"> 傳へる</distinct>所に依れば、若しも<country
+              key="KR">朝鮮</country><lb/>
+            が統一されるならぱ<region>北鮮</region>の工業と<lb/><region>南鮮</region>の農業とは有機的に結びつい<lb/>
+            て、色んな問題は急速に解決され<lb/>るに <distinct type="spelling">違ひない</distinct>。<country key="US"
+              >米國</country>の官史は、<country key="KR">朝<lb/> 鮮</country>の待ってゐる<distinct type="outdated"
+              >經濟的</distinct>な能力と、<lb/> 過去における日本統治下の經濟的<lb/> 實績を詳細はに撿討した後、統一さ<lb/>れた<country
+              key="KR">朝鮮</country>は自分自身を <distinct type="spelling">支へる</distinct>に足<lb/>
+              るだけの充分な資源と生産手段お<lb/>よび<distinct type="outdated">勞働力</distinct>
+            を待ってゐると評價し<lb/>てゐる。それにはしっかりした政<lb/> 府と、そして直ちに財政的、技術<lb/>的、行政的な援助を必要とする<distinct
+              type="spelling">だ<lb/>らう</distinct>」と。</p>
+        </div>
+        
+        <div type="Section" xml:id="Sn02">
+          <head style="vr">米新提案</head>
+          <p>さきにのべた米新提案はつぎの<lb/>線に沿ったものである。</p>
+          <p>朝鮮國民會議の選擧を行う選擧<lb/>にあたっては<distinct type="outdated">國連委員會</distinct>をオブ<lb/>
+            ザ<g>ー</g>ヴァ<g>ー</g>として立會わせる、そ<lb/>の時期は米政府當局者は今から六<lb/> ヶ月内がよいとしてゐる</p>
+
+          <p>一、朝鮮臨時政府は<distinct type="outdated">國連總會</distinct>が選<lb/>任する、同政府は<distinct
+              type="outdated">國連委員會</distinct>に<lb/> 援助と支持を求めることが出來<lb/>る</p>
+          <p>一、米ソ兩占領案の實際の撤兵時<lb/>期は<distinct type="outdated">國連</distinct>の會議を開いたうえ米<lb/>
+            ・ソ・朝三者間の恊定によって<lb/>決定する </p>
+        </div>
+        
+        <div type="Section" xml:id="Sn03">
+          <head style="vr">ソ聯徹兵案</head>
+          <p>米ソ公同委員會のソ連代表は<date when="1947-09-26">九<lb/>月二十六日</date>ソ連側の要求によって<lb/>
+            開かれた共同委員會の席上、米ソ<lb/>兩軍の同時撤退を提議したのち記<lb/> 者團と會見「朝鮮人民は民主主義<lb/>臨時政府の樹立と同樣、南北を分<lb/>
+            割する立ソ兩軍の撤退を希望して<lb/>ゐる、いまや朝鮮人民の混亂を克<lb/> 服して、自主的臨時政府の段階に達<lb/>し、米ソ兩國への撤退要望は絶對<lb/>
+            的なものがある」と語った </p>
+        </div>
+        
+        <div type="Section" xml:id="Sn04">
+          <head style="vr">☆南鮮反對・北鮮支持</head>
+          <p>北鮮では北朝鮮勞働黨を始め各<lb/>政黨、社會團體は<date when="1947-10-27">二十七日</date>それぞ<lb/>
+            れソ代表の聲明を全幅的に支持す<lb/>るに米側代表はこれを拒絶する<lb/> 何らの理由もないとする談認を發<lb/>表した</p>
+
+          <p>それに反して南鮮右翼政界の長<lb/>老すなわち從來占領軍の撤退を主<lb/> 張し續けて來た<persName> >李承晩</persName>博士は「<country
+              key="US">米<lb/>國</country>がこの際<country key="RU">ソ連</country>に道を讓るといふ<lb/>
+              法はない」と<distinct type="spelling">いひ</distinct><name type="person"
+            >又金奎植氏</name>も反<lb/> 對しておりいずれも撤兵が行われ<lb/> る場合は北鮮の朝鮮人部隊に對抗<lb/>出來る武器と軍隊を訓煉すべきだ<lb/>
+            と提唱してゐる。</p>
+        </div>
+        
+        <div type="Section" xml:id="Sn05">
+          <head style="vr"><name type="person">金龍中氏</name> (<orgName>在美國朝鮮人協會</orgName>會長)<lb/> 五小國委員會提唱</head>
+          <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<name type="person">金龍中<lb/> 氏</name>は<country key="US"
+              >米國政府</country>に對して朝鮮から<lb/><distinct type="outdated">兩國連隊</distinct>を同時撤廢受諾するよう提<lb/>
+              唱した「それんは」と彼はいう「<lb/>軍隊の撤退は<distinct type="outdated">國連</distinct>によって指名さ<lb/>
+            れ五小國委員會によって朝鮮に完<lb/>全に武器が残されないように監視さ<lb/> れねばならぬそれでなければ朝鮮<lb/>に内亂がおこるであらう、米ソ兩<lb/>
+            地區の境は軍隊の撤退が開始され<lb/>る以前に、朝鮮人自身が秩序を保<lb/> ったために開かねばならないもし<lb/><country key="RU"
+              >ソ連</country>が平素いっているように朝鮮<lb/> 人の幸福を願っているのなら當然<lb/>それに同意すげきだ」金氏の主唱<lb/>
+              する監視委員會はアジアから<country key="PH">フィ<lb/>リピン</country>か<country key="TH">シャム</country>の一國、歐洲から<lb/>
+            <country key="NO">ノルウェ<g>ー</g></country>か<country key="SE">スウェ<g>ー</g>デン</country>の一國<lb/>それに<country
+              key="AU"><distinct type="spelling">オ<g>ー</g>ストラリヤ</distinct></country>か<country key="NZ"
+              >ニュ<g>ー</g>ジ<lb/> <g>ー</g>ランド</country>を<distinct type="spelling"
+              >加へる</distinct>、さらに南米お<lb/>よび北米からすづたとへば<country key="MX">メキシ<lb/> コ</country>か<country
+              key="CA">カナダ</country>を以って構成しようと<lb/>している、また<country key="RU">ソ連</country>と<country
+              key="US">米國</country>は<country key="KR">朝鮮</country><lb/>
+            の内政に干渉せず中立を堅持し、<lb/>英國と中國とともに朝鮮の主權と<lb/> 領土保全を保證する事を<distinct type="outdated"
+              >國連</distinct>に誓<lb/>うべきである」とのべてゐる。金<lb/> 氏の主張は率直に我々の氣持ちを<lb/>表し、朝鮮は解放された國であ<lb/>
+            ると<distinct type="outdated"><distinct type="spelling">云ふ</distinct></distinct>事を主張せんとしてゐる </p>
+        </div>
+        
+        <div type="Section" xml:id="Sn06">
+          <head style="vr">全<distinct type="outdated">國</distinct>在日朝鮮<distinct type="outdated">學生</distinct><lb/>社<distinct type="outdated">會</distinct>
+            思想討論<distinct type="outdated">會</distinct></head>
+          <p>第五回全<distinct type="outdated">國</distinct><distinct type="outdated">學生</distinct>思想討論<distinct type="outdated">會</distinct>をさ<lb/>る<date when="1947-09-27">九月二十七日</date>
+            、<placeName>京都<distinct type="outdated">學</distinct>同中部本<lb/>部</placeName>に於て催された。</p>
+
+          <p>約一五◯名の各地方代表が參席<lb/>自由討論を<distinct type="spelling">行ひ</distinct>、<distinct type="outdated">學生</distinct>こそ<distinct type="outdated">實踐鬪</distinct><lb/> <distinct type="outdated">爭</distinct>
+            に突進し祖<distinct type="outdated">國</distinct>再建に盡すべく堅<lb/>き決議をして散<distinct type="outdated">會</distinct>した。討議事項<lb/>
+            左の如し</p>
+
+          <p>(一)戰後<distinct type="outdated">國</distinct>際情勢の分析<lb/> １資本主義<distinct type="outdated">體制</distinct><distinct type="outdated">總體</distinct>的弱化<lb/> ２民主革命勢カの增大<lb/> ３植民地、半植民地民族解放運<lb/>動の激化<lb/>
+            ４<country key="US">米國</country>内<distinct type="outdated">勞</distinct>働運動の激化と反動<lb/>勢カの擡頭<lb/> ５<country key="US"
+              >ソ連</country>は世界平和を保障するか<lb/></p>
+          <p>(二)<distinct type="outdated">國</distinct>際情勢と朝鮮獨立<lb/> １<distinct type="outdated">國</distinct>際「ファッショ」殘滓勢カ<lb/>を徹底的に打倒すること<lb/> ２<distinct type="outdated">國</distinct>際條約<name type="plan"
+            >「カイロ、ボツダム<lb/>三相恊定」</name>を充實に履行する<lb/>こと<lb/> ３政權は人民の手に依り（人民<lb/>委員<distinct type="outdated">會</distinct>）<lb/>
+            ４不法<distinct type="outdated">彈壓</distinct>、<distinct type="outdated">檢擧</distinct>の愛<distinct type="outdated">國</distinct>者を即<lb/>時釋放<lb/></p>
+          <p>(三)在日同胞の諸問題<lb/> １朝鮮の運動を積極的推進強化<lb/>すること<lb/> ２日本民主勢カと提携、共同鬪<lb/>爭を展開すること<lb/>
+            ３日帝の殘存勢カと反動謀利輩<lb/>を粉碎すること<lb/></p>
+          <p>(四)在日朝鮮<distinct type="outdated">學生</distinct>の使命<lb/> １<distinct type="outdated">學生</distinct>は<distinct type="outdated">現實</distinct>を直視し眞理を探<lb/>究して理論、水準を相互上<lb/>すること<lb/>
+            ２<distinct type="outdated">學</distinct>内民主化運動を積極的展開<lb/>すること<lb/> ３在留同胞の啓蒙運動に參加す<lb/>ること<lb/></p>
+
+          <p>以上の如き結論を單なる空想的な<lb/>机上論として消さず直接<distinct type="outdated">實</distinct>踐行<distinct type="outdated">爲</distinct><lb/> を以って<distinct type="outdated">鬪爭</distinct>せんことを決議した </p>
+        </div>
+        
+        <div type="Section" xml:id="Sn07">
+          <head>PEN</head>
+          <p> △<distinct type="outdated">曾つて</distinct>ナポレオンの「<lb/>不可能」は佛語にあら<lb/>ずといつた。文豪<persName>アン<lb/>ドレ・モロワ</persName>も「君の<lb/>欲するのが可能ならそれはもう<lb/>
+            <distinct type="spelling">出來てゐる</distinct>のだ、もし不可能な<lb/>ことならもうすこし時間がかゝ<lb/>る。忍耐と時間さへあれば不可<lb/>能なことはないわけだ」と。△<lb/>
+            永遠の平和を生むために各國の<lb/><distinct type="outdated">名醫</distinct>は<orgName><distinct type="outdated">國連</distinct></orgName>へ集まつた。<distinct type="outdated">双生兒</distinct><lb/>
+            が生まれた<distinct type="spelling">やう</distinct>だが、その育てる<lb/>自的迄の方法に於ては同一な意<lb/>
+            見が見出されてゐるようだが育<lb/>たてる位置とその環境において<lb/>暑つすぎる寒すぎると<distinct type="outdated">云つて</distinct>難<lb/>關をつゞけてゐる。が多くの醫<lb/>
+            師がより良き環境と位置を見つ<lb/>けて來れる事で<distinct type="spelling">あらう</distinct>。△特に<lb/>北緯三八度を境に色彩を<distinct type="spelling">變へて</distinct><lb/>ゐる<distinct type="outdated">我國</distinct>
+            についての多くの醫<lb/>者が診斷を下して<distinct type="spelling">ゐる</distinct>。しかし<lb/>あまり多くの診斷は我々を惑は<lb/>せ、且つかえつて<distinct type="outdated">惡化</distinct>
+            せしめる<lb/>ことになる、よりよき診斷は分裂<lb/>を意味するのでは決してなく、<lb/>統一出來ると<distinct type="spelling">いふ</distinct>それである、<lb/>過去三十六年間の歷史は明らか<lb/>
+            に統一出來るということを吾々<lb/>に<distinct type="spelling">示してゐる</distinct>。徒外部のみを見<lb/>て診斷を下すのは彼自身<distinct type="outdated">藪醫者</distinct><lb/>に過ぎないと<distinct type="outdated">云う</distinct><distinct type="outdated">證據</distinct>である。
+          </p>      
+      </div>  
+     </div>
+      
+      
+     <div type="Article" xml:id="Ac02">
+       <head style="vr">祖<distinct type="outdated">國</distinct>通信</head>  
+       <div type="Section" xml:id="Sn08">
+         <head style="vr">朝鮮文字記念日<lb/>「十月九日解放後第三回」の目<lb/>を<distinct type="spelling">迎へる</distinct>。</head>
+         <p>「ハングルナル」とは朝鮮文字<lb/>（ハングル）記念日のことで李朝<lb/>第四式〇宗二十八年丙寅九月〇日<lb/>即ち一四四年十月二十九日訓民正<lb/>音として<distinct type="outdated">發表</distinct><distinct type="outdated">奬勵</distinct>した表音文字で<lb/>現在は字母二十四文字になってい<lb/>
+           る朝鮮文字の<distinct type="outdated">發表</distinct>記念日である。</p>
+       </div>
+       
+       <div type="Section" xml:id="Sn09">
+         <head style="vr"><distinct type="outdated">國大案反對</distinct>の<distinct type="outdated">聲明</distinct></head>
+         <p>（<distinct type="outdated">京城發</distinct>KNSー<distinct type="outdated">東亞</distinct>）<distinct type="outdated"><orgName>國大案反<lb/>對共同鬪爭委員會</orgName></distinct>では現情勢に<distinct type="outdated">對<lb/>處</distinct>して教育民主化を促進する
+           <distinct type="outdated">爲</distinct>三<lb/>十一日左の如き<distinct type="outdated">聲明</distinct>を<distinct type="outdated">發表</distinct>した</p>
+         
+         <p>一、<distinct type="outdated">國大案</distinct>は反動性と、その提出<lb/>者の反民族的<distinct type="outdated">意圖</distinct>を指摘する</p>
+         <p>二、近き<distinct type="outdated">將來</distinct>に樹立する南北統一<lb/>民主臨時政府に<distinct type="outdated">對し</distinct><distinct type="outdated">國大案撤回</distinct><lb/>を全<distinct type="outdated">學</distinct>徒の<distinct type="outdated">名儀</distinct>で要求する事の
+           <lb/>出來る條件を確保する</p>
+         <p>三、理事<distinct type="outdated">會</distinct>改選、<distinct type="outdated">總</distinct>長交代</p>
+         <p>四、反動教育策打破民主臨時政<lb/>府樹立と◯委再開促進等協力に<lb/>成功成果を揚げこの運動に長期<lb/>化して<distinct type="outdated">學校當局</distinct>の情実<distinct type="outdated">留學</distinct>と脱<lb/>落者の糾合策動する危性のある<lb/>ことを指摘する。</p>
+         
+         <p>國大案を反對して今年二月南朝<lb/>鮮<unclear reason="faded">十</unclear>萬の男女<distinct type="outdated">學</distinct>生が一<distinct type="outdated">齊</distinct>にけつ起こ<lb/>した以後、六ヶ月<distinct type="outdated">餘掛り</distinct>反動的<distinct type="outdated">國</distinct><lb/>
+           大案撤回に努力すると共に左の要<lb/>求<distinct type="outdated">條項</distinct>を<distinct type="spelling"><distinct type="outdated">發表</distinct>してゐる</distinct>。</p>
+         
+         <p>一、進步的<distinct type="outdated">學</distinct>生の<distinct type="outdated">無條件復舊</distinct></p>
+         <p>二、<distinct type="outdated">學</distinct>生自治<distinct type="outdated">權</distinct>を復職</p>
+         <p>三、<distinct type="outdated">舊</distinct>教授の復職</p>
+         <p>四、<distinct type="outdated">學</distinct>園に<distinct type="outdated">對</distinct>する警察干涉中止の<lb/>保障</p>  
+       </div>
+       
+       <div type="Section" xml:id="Sn10">
+         <head style="vr"><distinct type="spelling">ベニシリン</distinct>培養に成功<lb/>金曜成大學醫學部にて</head>
+         <p>（二十五日<distinct type="outdated">發</distinct>北朝通）同大<distinct type="outdated">學醫學<lb/>部</distinct>にてはベニシリン原<distinct type="outdated">菌</distinct>培養を研<lb/>究中だつたが成功したと<distinct type="outdated">發表</distinct>した<lb/>「研究に精進中だつたがその基本<lb/>構造の研究を完遂し強力
+           <distinct type="outdated">菌</distinct>の培養<lb/>方法も成功した。今迄製造された<lb/><distinct type="spelling">ベニシリン</distinct>の外科的治療の<distinct type="outdated">試驗</distinct>は<lb/>良い結果を見たいと創立一週年記<lb/>念<distinct type="outdated">學術講演會</distinct>で研究結果を公開し<lb/>た。</p>
+       </div>
+      </div>
+      
+      
+      <div type="Article" xml:id="Ac03">
+        <head>主張</head>
+        <head style="vr"><distinct type="outdated">學</distinct>同の在り方</head>
+        <p></p>
+        
+        
+        
+        
+        
+        
+        
+      </div>
+      
+      
+    </body>
+  </text>
+
+</TEI>
