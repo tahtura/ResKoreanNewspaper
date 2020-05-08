@@ -83,7 +83,6 @@ tei-p[style=hr] {
 tei-p {
   writing-mode: vertical-rl;
   text-orientation: upright;
-  margin: 8px;
 }
 
 /*Text-orientation correction*/
