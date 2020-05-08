@@ -174,10 +174,14 @@
           </p>
       </div>
      </div>
-
+      <lb/>
+      <lb/>
+      <lb/>
+      
 
      <div type="Article" xml:id="Ac02">
-       <head style="vr">祖<distinct type="outdated">國</distinct>通信</head>
+       <div type="Section" xml:id="Ac02Ti">
+       <head style="vr">祖<distinct type="outdated">國</distinct>通信</head></div>
        <div type="Section" xml:id="Sn08">
          <head style="vr">朝鮮文字記念日<lb/>「十月九日解放後第三回」の目<lb/>を<distinct type="spelling">迎へる</distinct>。</head>
          <p>「ハングルナル」とは朝鮮文字<lb/>（ハングル）記念日のことで李朝<lb/>第四式〇宗二十八年丙寅九月〇日<lb/>即ち一四四年十月二十九日訓民正<lb/>音として<distinct type="outdated">發表</distinct><distinct type="outdated">奬勵</distinct>した表音文字で<lb/>現在は字母二十四文字になってい<lb/>
@@ -210,9 +214,13 @@
            <distinct type="outdated">菌</distinct>の培養<lb/>方法も成功した。今迄製造された<lb/><distinct type="spelling">ベニシリン</distinct>の外科的治療の<distinct type="outdated">試驗</distinct>は<lb/>良い結果を見たいと創立一週年記<lb/>念<distinct type="outdated">學術講演會</distinct>で研究結果を公開し<lb/>た。</p>
        </div>
       </div>
-
-
-      <div type="Article" xml:id="Ac03">
+      <lb/>
+      <lb/>
+      <lb/>
+      
+      
+      
+      <div type="Article" subtype="standalone" xml:id="Ac03">
         <head>主張</head>
         <head style="vr"><distinct type="outdated">學</distinct>同の在り方</head>
         <p>在日朝鮮人留學生は代表機關た<lb/>る學生同盟するに至つた必然性や學<lb/>同の趣旨に對し客觀的觀察から離<lb/>れ一應學同の主體なる在方を最も<lb/>主觀點に説いて見たいと思ふ。</p>

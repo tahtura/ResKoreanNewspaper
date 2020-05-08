@@ -42,6 +42,24 @@ tei-div[type=Section] p {
   flex: 4;
 }
 
+
+tei-div[type=Article][subtype=standalone] {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  font-size: 14px;
+
+}
+
+
+tei-div[type=Article][subtype=standalone] p {
+flex: 2;
+}
+
+/*Instructions for writing mode for both head elements
+and paragraph elements. Some paragraph elements are horizontal,
+so this distinguishes them*/
+
 /*Specifically for the one horizontal heading of the article.*/
 tei-head {
   text-align: right;
@@ -49,14 +67,11 @@ tei-head {
 }
 
 
-
-/*Instructions for writing mode for both head elements
-and paragraph elements. Some paragraph elements are horizontal,
-so this distinguishes them*/
-
 tei-head[style=vr] {
   writing-mode: vertical-rl;
   text-orientation: mixed;
+  align-items: center;
+  text-align: inherit;
 }
 
 
