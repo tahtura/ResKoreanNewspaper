@@ -71,7 +71,7 @@ tei-head[style=vr] {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   align-items: center;
-  text-align: inherit;
+  text-align: center;
 }
 
 
