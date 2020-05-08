@@ -53,7 +53,7 @@ tei-div[type=Article][subtype=standalone] {
 
 
 tei-div[type=Article][subtype=standalone] p {
-flex: 2;
+flex: 12;
 }
 
 /*Instructions for writing mode for both head elements
