@@ -13,7 +13,8 @@ Also adds padding so that sections are not too close*/
 
 /*Adjusting TitleInfo*/
 tei-div[type=Header] {
-  font-size:12px;
+  display: inline-block;
+  font-size: 12px;
   text-align: center;
   margin: auto;
 }
