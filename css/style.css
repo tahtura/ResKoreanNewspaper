@@ -14,18 +14,21 @@ Also adds padding so that sections are not too close*/
 /*Adjusting TitleInfo*/
 tei-div[type=Header] {
   font-size:12px;
-  text-align:center;
+  text-align: center;
+  margin: auto;
 }
 
-tei-div[type=Title] {
-  text-align: center;
-}
 
 tei-div[type=TitleInfo] {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
+
+tei-div[type=Title] {
+  text-align: center;
+}
+
 
 tei-div[type=Publishing] {
   font-size: 12px;
