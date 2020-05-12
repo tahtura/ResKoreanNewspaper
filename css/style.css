@@ -11,7 +11,7 @@ tei-teiHeader {
 /*Creates Right to Left grid for text based on divisions in XML.
 Also adds padding so that sections are not too close*/
 
-/*Adjusting TitleInfo*/
+/*Centering newspaper header information*/
 tei-div[type=Header] {
   display: flex;
   flex-direction: row;
@@ -25,7 +25,7 @@ tei-div[type=Header] head{
   flex: 12;
 }
 
-
+/*Adjusting TitleInfo format*/
 tei-div[type=TitleInfo] {
   display: flex;
   flex-direction: row;
@@ -40,6 +40,7 @@ tei-div[type=Title] {
 tei-div[type=Publishing] {
   font-size: 12px;
 }
+
 /*Specific instructions for each article section*/
 tei-div[type=Section] {
   display: flex;
@@ -52,7 +53,7 @@ tei-div[type=Section] p {
   flex: 4;
 }
 
-
+/*Formatting for Article 3, which has no sub-articles*/
 tei-div[type=Article][subtype=standalone] {
   display: flex;
   flex-direction: row-reverse;
@@ -61,10 +62,10 @@ tei-div[type=Article][subtype=standalone] {
 
 }
 
-
 tei-div[type=Article][subtype=standalone] p {
 flex: 4;
 }
+
 
 /*Instructions for writing mode for both head elements
 and paragraph elements. Some paragraph elements are horizontal,
@@ -76,7 +77,7 @@ tei-head {
   font-size: 17px;
 }
 
-
+/*For vertical heads of articles and sub-articles*/
 tei-head[style=vr] {
   writing-mode: vertical-rl;
   text-orientation: mixed;
@@ -84,18 +85,18 @@ tei-head[style=vr] {
   text-align: center;
 }
 
-
+/*Styling horizontal text*/
 tei-p[style=hr] {
   writing-mode: horizontal-tb;
 }
 
-
+/*Styling vertical text*/
 tei-p {
   writing-mode: vertical-rl;
   text-orientation: upright;
 }
 
-/*Text-orientation correction*/
+/*Text-orientation correction for special characters*/
 tei-g {
   writing-mode: vertical-rl;
   text-orientation: sideways;
@@ -103,7 +104,7 @@ tei-g {
 
 
 
-/*Specific instructions for TEI Elements*/
+/*Instructions for specific TEI Elements*/
 
 /*strikes through overwritten text*/
 tei-del[rend=overwritten] {
@@ -115,10 +116,12 @@ tei-distinct[type=outdated] {
   color: red;
 }
 
+/*Makes any traditional orthography aqua*/
 tei-distinct[type=spelling] {
   color: aqua;
 }
 
+/*Makes any unknown kanji compounds (suspected Hanja) dark magenta*/
 tei-distinct[type=unk-compound] {
   color: DarkMagenta;
 }
@@ -138,11 +141,12 @@ tei-name[type=plan] {
   color: chocolate;
 }
 
+/*Makes significant dates purple*/
 tei-date {
   color: purple;
 }
 
-/*Makes places green*/
+/*Makes places (addresses, place names, and country names) green*/
 tei-address {
   color: green;
 }
