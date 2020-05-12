@@ -10,11 +10,58 @@
   </head>
 
   <body>
-    <!-- /*Description of document and color coding*/ -->
-    Summary of document, how it is encoded, and color legend here
-     Link to the TEI ODD for documentation
-     <a href="data/schema/tei_jp.odd">Download ODD</a>
+    <u><b>Japanese and TEI with a Post-War Historical Document</b></u>
+    <!-- Description of document and color coding -->
+    <p style="text-indent: 50px">This web page details a research assistantship undertaken by Tahura Huda Turabi, an Information Science and Japanese double-degree student
+    at the University of Maryland, College Park, under the mentorship of the Maryland Institute for Technology in the Humanities. This project
+    lasted the duration of the Spring 2020 semester under the course title MITH388. It explores text scholarship of a foreign language primary
+    historical document, as an effort to include both Information Science and Japanese disciplines.</p>
 
+    <p style="text-indent: 50px">The research project text is a representation of a text-encoded historical document from post-war Japan.
+    The <i>Chousen Ryuugakusei Shimbun (朝鮮留学生新聞)</i>, held at the Gordon W. Prange Collection, University of Maryland Libraries,
+    is a newspaper published by study-abroad Korean Students in Kobe, Japan, in the years following World War II. This particular document was published in October 1947, and concerns several topics including US-Russian
+    influence in Korea, Korean unification, resisting imperialism, and the role of students in Korean independence.</p>
+
+    <p style="text-indent: 50px">The student authors often refer to themselves as "Zainichi Chousenjin," or "Resident Koreans." Resident Koreans in Japan
+    are residents of Korean descent who are not considered national citizens, despite often having lived in the country
+    for generations beginning in the war period. Due to devastating conditions both before and during the war, many Koreans
+    immigrated to Japan in search of work and a better chance for survival. Unfortunately, they faced discrimination and hardship
+    as a minority. Today, the term "Zainichi Kankokujin" ("Kankoku", 韓国, being the modern equivalent to "Chousen,"朝鮮, both meaning
+    "Korea" in Japanese) is still politically charged as the minority continues to call for equal rights, such as the right to vote.</p>
+
+    <p style="text-indent: 50px">This newspaper record was initially solely in physical format. The collection holder, the Gordon Prange Collection at the University
+    of Maryland, College Park, scanned the pages of the newspaper and digitized it as high-quality TIFF files. The text was then transcribed
+    and translated by hand into Japanese text, preserving historical uses of Kanji and Kana. It was then annotated with oXygen XML Editor
+    and Atom programs using standards from the Text Encoding Initiative (TEI). TEI is a specific practice within the Digital Humanities
+    field that typically focuses on examining and analyzing textual materials. Using XML code, important aspects of a text are
+    "tagged" with elements. For example, if a famous historical figure's name were to appear in a text, it could be tagged with the
+    Person Name element "persName". An example would be: </p>
+    <code>
+      A man named &#60;persName>Abraham Lincoln&#60;/persName>.
+    </code>
+    <br/><br/>
+    For more information on the TEI elements used to annotate this document, please see the <a href="data/schema/tei_jp.odd">TEI ODD documentation</a>
+    <br/>
+    <p style="text-indent: 50px">Given the many TEI elements used to indicate aspects of the text such as organization names, historical spelling, and more, CSS code was used
+    to color code the text by their tags. The colors are represented as written below:</p>
+    <p style="color:red">Distinct (Outdated Kanji usage): Red</p>
+    <p style="color:aqua">Distinct (Historical Kana spelling): Aqua</p>
+    <p style="color:darkmagenta">Distinct (Unknown Kanji Compound): Dark Magenta</p><br/>
+    <p style="color:orange">Person Name: Orange</p>
+    <p style="color:pink">Organization Name: Pink</p>
+    <p style="color:chocolate">Plan Name: Chocolate<p/><br/>
+    <p style="color:purple">Date: Purple<p/>
+    <p style="color:green">Places (Address, Place Name, Country): Green<p/><br/>
+
+    <p style="text-indent: 50px">Below is the full text of the first page of the <i>Chousen Ryuugakusei Shimbun</i>. After the title, header, and publishing information, there
+    are three articles marked by horizontal titles. Within each article can be several sub-articles with vertical titles. This text is marked
+    by color, as indicated by the legend above. After the Japanese text is a rough translation of the first article. Unfortunately, due to time
+    constraints and circumstances of the Spring 2020 semester, I was unable to complete translations of the second and third articles, therefore
+    depth of TEI element tagging is not as intensive as the first article.</p>
+
+    <br/>
+    <br/>
+    <!-- Japanese TEI Document Below -->
     <div id="TEI" ></div>
 
     <script>
@@ -23,6 +70,114 @@
         document.getElementById("TEI").appendChild(data)
       })
     </script>
+
+    <!-- English Translation of Article 1 -->
+    <br/><u>An Autumn of Independence</u><br/><br/>
+
+    <p><b>The Marshall Plan and Withdrawal Proposal / Will the Provisional Government Exist within a Few Months?
+    If reunified, is independence possible?</b></p>
+
+    <p>Previously the US and the Soviet Union, in a joint committee, made a great effort in order to establish a provisional government for Korean unification, though executing such a
+      mission entirely proved impossible. Now, with the US, the Shikoku Proposal for independence presented to the UN was finally approved by 12 points at the UN Committee meeting on
+      September 21st. At that time, the Soviet Union proposed to the joint committee that they both withdraw their troops from Korea simultaneously.</p>
+
+    <p>On the other hand, in New York City on the 7th via an AP dispatch, the United Nations General Assembly finally finished the plan to establish a framework for self-independence
+      under UN surveillance within a number of months based on the Marshall Plan. According to the declaration made by those associated with the US diplomatic mission, as the US makes
+      this plan concretely apparent, part of the responsibility to decide at what stage the US-Soviet occupying forces should withdraw from Korea will be shared with the UN and Korea.
+      Aside from the particulars, this plan was almost completed.</p>
+
+    <p>Additionally, according to a statement by Mr. Tom Lambert at Keijou, there is no doubt that if Korea was to be unified, the industries of the North and the agriculture of the South
+       would be naturally tied together, and various problems would be quickly resolved. The history of the US government, after examining both Korea’s economic strength in waiting and its
+       economic achievements under Japanese rule, has assessed that a unified Korea would have the resources and manpower to sufficiently support itself. This would require direct economic,
+       technical, and administrative support from a reliable government.</p>
+
+    <br/>
+
+
+    <b>New US Proposal</b>
+
+    <p>The new US proposal stated earlier is outlined below.</p>
+
+    <p>On the occasion of the election of the Korean National Congress, the UN Committee will be present as an observer. The American government authorities would like to try to do this within
+      the next 6 months.</p>
+
+    <p>One, The Korean provisional government will be selected by the UN General Assembly, and both aid and support can be requested for that same government by the United Nations.</p>
+
+    <p>One, The realization of the US-Soviet plan for the troop withdrawal stage will be agreed upon by the US, Soviet Union, and Korea, as a three party pact at a meeting held by the UN.</p>
+
+    <br/>
+
+
+    <b>The Soviet Withdrawal Plan</b>
+
+    <p>On the occasion of a Cooperative Committee being opened on September 26th due to a Soviet representative of the US-Soviet Committee, after a proposal was made to withdraw both armies
+      simultaneously, a reporter stated in an interview that “The Korean people hope that, just like with the establishment of the Democratic provisional government, the standing Soviet army dividing
+      the North and South will withdraw. Now, conquering the Korean people’s confusion and achieving the stage of an autonomous provisional government, the demand for the withdrawal of both the US and
+      the Soviet Union is absolute.”</p>
+
+    <br/>
+
+
+    <b>☆South Korean Opposition/North Korean Approval</b>
+
+    <p>In North Korea, each political party and societal organizations  including the North Korean Labor Party announced on the 27th that US representatives have no reason to reject the Soviet
+    representatives’ full endorsement of (shoumyou).</p>
+
+    <p>In response to that, South Korean right-wing elder politician, namely, Dr. Syngman Rhee, who continually insisted on the withdrawal of the invading occupying army, says that “There is no
+    way to say that the US will concede the road to the Soviet Union.” In addition, Mr. Kyu-sik Kim also opposes this, and advocates that in the case that withdrawal occurs, they ought to train
+    in weaponry and military against North Korean forces.</p>
+
+    <br/>
+
+
+    <b>Mr. Yong-jeung Kim (President of the Korean Affairs Institute)<br/>
+    Five Small Countries Commission Proposal</b>
+
+    <p>On the other hand, according to a Washington DC report on the 30th, Mr. Yong-jeung Kim, President of the Korean Affairs Institute, proposed to the US Government a simultaneous withdrawal from Korea.
+     He says, “The Soviet Union must, according to the Five Small Countries Commission appointed by the UN, be under complete surveillance to leave behind no weapons, or a civil war may occur in Korea.
+     Before the withdrawal of troops from the US-Soviet boundary begins, the border must be opened for the sake of the Korean people maintaining their own order. If the Soviet Union, as in the past, is
+     hoping for the happiness of the Korean people, they would surely accept this.” Mr. Kim’s proposed surveillance committee would attempt to add the Philippines or Siam from Asia, Norway or Sweden from
+     Europe, Australia or New Zealand, and also one from the North and South Americas like Mexico or Canada. Additionally, the Soviet Union and the United States must maintain neutrality without interfering
+     in Korean domestic affairs, and pledge to the United Nations that together with the United Kingdom and China they will assure Korea’s sovereignty and territorial integrity.” Mr. Kim’s assertion quite
+     frankly represents our feelings on the subject, as we attempt to assert that Korea is a country that has been liberated.</p>
+
+     <br/>
+
+
+    <b>Resident Korean Students of Japan<br/>
+    Social Thought Forum</b>
+
+    <p>The fifth Resident Korean Student Social Thought Forum was held on September 27th at the Kyoto Academy Chūbu Headquarters.</p>
+
+    <p>About 150 representatives from every district freely attended the debate, and students rushed into the practical competition for the purpose of exhausting firm resolutions for the reconstruction of the motherland,
+    and adjourned.  The debate matters are as to the left:</p>
+
+    <p>1) Analysis of the Postwar International Situation<br/>
+    1 The Relative Weakening of the Capitalist System<br/>
+    2 The Increase in Power of Democratic Revolution<br/>
+    3 Intensification of the National Liberation Movement of Colonies and Semi-Colonies<br/>
+    4 Intensification of the American Labor Movement and the Rise of Reactionary Influence<br/>
+    5 Will the Soviet Union Guarantee World Peace?</p>
+
+    <p>2) The International Situation and Independence<br/>
+    1 Defeating the Remains of International Facsism<br/>
+    2 The Complete Implementation of the  “Cairo, Potsdam Three-Phase Agreements” International Treaty<br/>
+    3 Political Power is in the Hands of the People (The People’s Committee)<br/>
+    4 The Immediate Release of Unlawful Oppressed, Arrested Patriots</p>
+
+    <p>3) The Many Problems of Resident Korean Compatriots<br/>
+    1 Assertively Driving the Korean Movement<br/>
+    2 Developing Cooperation and Joint Struggle with Japan’s Democratic Power<br/>
+    3 Demolishing The Surviving Influence of Japanese Imperialism and Reactionary Profiteers</p>
+
+    <p>4) The Mission of Resident Korean Students<br/>
+    1 Students Directly Facing Reality and Investigating the Truth in Order to Increase Reciprocation of Theory and Standards<br/>
+    2 Assertive Development of a Democratic Movement within Schools<br/>
+    3 Joining the Enlightenment of Resident Compatriots</p>
+
+    <p>Without dismissing the above conclusions as merely a fanciful theoretical discussion, the decision to fight with direct, practical actions was made.</p>
+
+
 
   </body>
 

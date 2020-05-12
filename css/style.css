@@ -100,11 +100,6 @@ tei-del[rend=overwritten] {
   text-decoration: line-through;
 }
 
-/*makes any historical orthography blue*/
-tei-distinct[type=orthography] {
-  color: blue;
-}
-
 /*Makes any archaic kanji red*/
 tei-distinct[type=outdated] {
   color: red;
