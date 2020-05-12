@@ -113,48 +113,48 @@ tei-del[rend=overwritten] {
 
 /*Makes any archaic kanji red*/
 tei-distinct[type=outdated] {
-  color: red;
+  color: #FA020B;
 }
 
 /*Makes any traditional orthography aqua*/
 tei-distinct[type=spelling] {
-  color: aqua;
+  color: #0071bc;
 }
 
 /*Makes any unknown kanji compounds (suspected Hanja) dark magenta*/
 tei-distinct[type=unk-compound] {
-  color: DarkMagenta;
+  color: #8B008B;
 }
 
 /*Makes person names orange*/
 tei-persName {
-  color: orange;
+  color: #CD6714;
 }
 
 /*Makes organization names pink*/
 tei-orgName {
-  color: pink;
+  color: #EC1D98;
 }
 
 /*Makes historically significant plan names and dates purple*/
 tei-name[type=plan] {
-  color: chocolate;
+  color: #753030;
 }
 
 /*Makes significant dates purple*/
 tei-date {
-  color: purple;
+  color: #4c2c92;
 }
 
 /*Makes places (addresses, place names, and country names) green*/
 tei-address {
-  color: green;
+  color: #2e8540;
 }
 
 tei-placeName {
-  color: green;
+  color: #2e8540;
 }
 
 tei-country {
-  color: green;
+  color: #2e8540;
 }
