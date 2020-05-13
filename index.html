@@ -35,11 +35,35 @@
     scanned the pages of the newspaper and digitized it as high-quality TIFF files. The text was then transcribed and translated by hand into Japanese text, preserving historical
     uses of Kanji and Kana. It was then annotated with oXygen XML Editor and Atom programs using standards from the Text Encoding Initiative (TEI). TEI is a specific practice
     within the Digital Humanities field that typically focuses on examining and analyzing textual materials. Using XML code, important aspects of a text are "tagged" with elements.
-    For example, if a famous historical figure's name were to appear in a text, it could be tagged with the Person Name element "persName". An example of the XML code would be: </p>
+    For example, if a famous historical figure's name were to appear in a text, it could be tagged with the Person Name element "persName". An example of the XML code within a text would be: </p>
     <code>
-      A man named &#60;persName>Abraham Lincoln&#60;/persName>.
+      This piece discusses a novelist named &#60;persName>Yū Miri&#60;/persName>.
     </code>
     <br/><br/>
+    The following is an excerpt of XML code specifically from this project. It annotates Section 4 of Article 01:<br/>
+    <code>
+    <blockquote>
+      &#60;div type="Section" xml:id="Sn04"><br/>
+        <blockquote>
+         &#60;head style="vr">☆南鮮反&#60;distinct type="outdated">對&#60;/distinct>・北鮮支持&#60;/head><br/>
+
+         <p>&#60;p>北鮮では北朝鮮&#60;distinct type="outdated">勞働黨&#60;/distinct>を始め各&#60;lb/>政黨、&#60;distinct type="outdated">
+             社會團體&#60;/distinct>は&#60;date when="1947-10-27">二十七日&#60;/date>それぞ&#60;lb/>
+           れソ代表の聲明を全幅的に支持す&#60;lb/>るに米側代表はこれを拒絶する&#60;lb/> 何らの理由もないとする談認を
+           &#60;distinct type="outdated">發&#60;lb/>表&#60;/distinct>した&#60;/p></p>
+
+         <p>&#60;p>それに反して南鮮右翼政界の長&#60;lb/>老すなわち&#60;distinct type="outdated">從來&#60;/distinct>占領軍の撤退を主&#60;lb/>
+             張し續けて&#60;distinct type="outdated">來た&#60;/distinct>&#60;persName> >李承晩&#60;/persName>博士は「&#60;country
+             key="US">米&#60;lb/>國&#60;/country>がこの際&#60;country key="RU">ソ連&#60;/country>に道を讓ると&#60;distinct type="spelling">
+             いふ&#60;/distinct>&#60;lb/> 法はない」と&#60;distinct type="spelling">いひ又&#60;/distinct>&#60;persName>金奎植氏&#60;/persName>も反
+             &#60;lb/>
+           &#60;distinct type="outdated">對して&#60;/distinct>おりいずれも撤兵が行われ&#60;lb/> る場合は北鮮の朝鮮人部隊に對抗
+           &#60;lb/>&#60;distinct type="outdated">出來る&#60;/distinct>武器と軍隊を訓煉すべきだ&#60;lb/>と提唱&#60;distinct type="spelling">
+            してゐる&#60;/distinct>。&#60;/p></p>
+        </blockquote>
+      &#60;/div>
+    </blockquote>
+  </code>
     For more information on the TEI elements used to annotate this document, please see the <a href="data/schema/tei_jp.odd">TEI ODD documentation</a>
     <br/>
     <p><u>Text Legend</u></p>
