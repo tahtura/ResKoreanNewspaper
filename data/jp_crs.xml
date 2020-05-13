@@ -34,7 +34,7 @@
       <div type="TitleInfo" xml:id="TiIn">
         <div/>
         <div type="Title" xml:id="Ti">
-          <head><distinct type="stacked">朝鮮</distinct>留學𦍌新聞</head>
+          <head><distinct type="stacked">朝鮮</distinct>留學生新聞</head>
           <head>THE KOREAN STUDENT PRESS <lb/>IN HYO<del rend="overwritten">D</del><add
               place="superimposed">G</add>O</head>
         </div>
@@ -132,17 +132,16 @@
           <p>それに反して南鮮右翼政界の長<lb/>老すなわち<distinct type="outdated">從來</distinct>占領軍の撤退を主<lb/>
               張し續けて<distinct type="outdated">來た</distinct><persName> >李承晩</persName>博士は「<country
               key="US">米<lb/>國</country>がこの際<country key="RU">ソ連</country>に道を讓ると<distinct
-              type="spelling">いふ</distinct><lb/> 法はない」と<distinct type="spelling">いひ</distinct><name
-              type="person">又金奎植氏</name>も反<lb/>
+              type="spelling">いふ</distinct><lb/> 法はない」と<distinct type="spelling">いひ</distinct><persName>又金奎植氏</persName>も反<lb/>
             <distinct type="outdated">對して</distinct>おりいずれも撤兵が行われ<lb/> る場合は北鮮の朝鮮人部隊に對抗<lb/><distinct
               type="outdated">出來る</distinct>武器と軍隊を訓煉すべきだ<lb/> と提唱<distinct type="spelling"
               >してゐる</distinct>。</p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn05">
-          <head style="vr"><name type="person">金龍中氏</name> (<orgName>在美國朝鮮人協會</orgName>會長)<lb/>
+          <head style="vr"><persName>金龍中氏</persName> (<orgName>在美國朝鮮人協會</orgName>會長)<lb/>
             五小國委員會提唱</head>
-          <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<name type="person">金龍中<lb/> 氏</name>は<country key="US"
+          <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<persName>金龍中<lb/> 氏</persName>は<country key="US"
               >米國政府</country>に對して朝鮮から<lb/><distinct type="outdated">兩國連隊</distinct>を同時撤廢受諾するよう提<lb/>
               唱した「それんは」と彼はいう「<lb/>軍隊の撤退は<distinct type="outdated">國連</distinct>によって指名さ<lb/>
             れ五小國委員會によって朝鮮に完<lb/>全に武器が残されないように監視さ<lb/> れねばならぬそれでなければ朝鮮<lb/>に内亂がおこるであらう、米ソ兩<lb/>
