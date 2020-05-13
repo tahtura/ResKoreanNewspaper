@@ -28,7 +28,7 @@
     <body>
       <div type="Header" xml:id="Hd">
         <head>No. 1 1947年10月20日 在日本朝鮮學生同盟兵庫縣支部機關紙 月 刊 第二號<lb/><lb/></head>
-        
+
       </div>
 
       <div type="TitleInfo" xml:id="TiIn">
@@ -57,38 +57,39 @@
           <head style="vr">「<name type="plan">マ<g>ー</g>シャル提議</name>と撤兵案<lb/>臨時政府喫う數ヶ月内に生きる？<lb/>
             統一すれば自立可能か<lb/></head>
           <p>先に朝鮮統一臨時政府樹立のため米ソ<distinct type="outdated">兩國</distinct>が多くの努<lb/>
-              力を拂った<orgName>共同委員會</orgName>も、その完全なる使命の <distinct type="outdated"
+              力を拂った<orgName>共同委員會</orgName>も、その完全なる使命の<distinct type="outdated"
               >遂</distinct>行は<lb/>不可能だと、<country key="US">米國</country>が<name type="plan"
-              >四國會議の提唱</name>、 <orgName>
+              >四國會議の提唱</name>、<orgName>
               <distinct type="outdated">國連</distinct></orgName>への提訴と<lb/> 獨自のコ<g>ー</g>スをたどり、<date
-              when="1947-09-21">九月二十一日</date>の <orgName><distinct type="outdated"
+              when="1947-09-21">九月二十一日</date>の<orgName><distinct type="outdated"
                 >國連總會運營<lb/>委員會</distinct></orgName>で、十二<distinct type="outdated"
-                >對</distinct>二票で<orgName><distinct type="outdated">
-            國連</distinct></orgName>への上程が可決された<lb/> その<distinct type="outdated"
+                >對</distinct>二票で<orgName><distinct type="outdated"
+              >國連</distinct></orgName>への上程が可決された<lb/>その<distinct type="outdated"
               >矢光</distinct>に<country key="RU">ソ連</country>から<orgName>共同委員會</orgName>に<distinct
               type="outdated">對し</distinct><country key="KR">朝鮮</country>の米ソ兩國<lb/>同時撤退が提案された</p>
 
-          <p>一方<date when="1947-10-07">七日</date><placeName>ニュヨ<g>ー</g>ク發AP</placeName>特電<lb/>では<orgName>
-              <distinct type="outdated">國連總會</distinct></orgName>は<name type="plan"
-              >マ<g>ー</g>シャル提議</name>に<lb/> もとづき<orgName><distinct type="outdated"
+          <p>一方<date when="1947-10-07"
+                >七日</date><placeName>ニュヨ<g>ー</g>ク發AP</placeName>特電<lb/>では<orgName><distinct
+                type="outdated">國連總會</distinct></orgName>は<name type="plan"
+                >マ<g>ー</g>シャル提議</name>に<lb/>もとづき<orgName><distinct type="outdated"
               >國連</distinct></orgName>の監視のもとに數ヶ<lb/>月間に自ら獨立樹立に着手の骨組<lb/>
-            とする提案を最後的に仕上けてお<lb/>り、米代表部關係者の言明による<lb/> と、<country key="US"
+              とする提案を最後的に仕上けてお<lb/>り、米代表部關係者の言明による<lb/>と、<country key="US"
               >米國</country>はこの提案を具體的に示<lb/>すとともに、米ソ占領軍が<country key="KR">朝鮮</country>か<lb/>
                 ら撤兵すべき時期を決定する責任<lb/>の一部を<orgName><distinct type="outdated"
-              >國連</distinct></orgName>と<country key="KR">朝鮮</country>に <distinct type="outdated"
-              >分擔</distinct>させる<lb/> ことにならうが細部の決定を残し<lb/>てはほとんど完成した。</p>
+              >國連</distinct></orgName>と<country key="KR">朝鮮</country>に<distinct type="outdated"
+              >分擔</distinct>させる<lb/>ことにならうが細部の決定を残し<lb/>てはほとんど完成した。</p>
 
           <p>又<placeName>京城</placeName>にて<persName>トム・ランバ<g>ー</g>ト</persName><roleName
-              type="honorific">氏</roleName><lb/> の<distinct type="spelling">
+              type="honorific">氏</roleName><lb/>の<distinct type="spelling">
               傳へる</distinct>所に依れば、若しも<country key="KR">朝鮮</country><lb/>
               が統一されるならぱ<region>北鮮</region>の工業と<lb/><region>南鮮</region>の農業とは有機的に結びつい<lb/>
-            て、色んな問題は急速に解決され<lb/>るに <distinct type="spelling">違ひない</distinct>。<country key="US"
-              >米國</country>の官史は、<country key="KR">朝<lb/> 鮮</country>の待ってゐる<distinct type="outdated"
-              >經濟的</distinct>な能力と、<lb/> 過去における日本統治下の經濟的<lb/> 實績を詳細はに撿討した後、統一さ<lb/>れた<country
-              key="KR">朝鮮</country>は自分自身を <distinct type="spelling">支へる</distinct>に足<lb/>
-              るだけの充分な資源と生産手段お<lb/>よび<distinct type="outdated">勞働力</distinct>
-            を待ってゐると評價<distinct type="spelling">し<lb/>てゐる</distinct>。それにはしっかりした政<lb/> 府と、そして直ちに財政的、技術<lb/>的、行政的な援助を必要とする<distinct
-              type="spelling">だ<lb/>らう</distinct>」と。</p>
+              て、色んな問題は急速に解決され<lb/>るに<distinct type="spelling">違ひない</distinct>。<country key="US"
+              >米國</country>の官史は、<country key="KR">朝<lb/>鮮</country>の待ってゐる<distinct type="outdated"
+              >經濟的</distinct>な能力と、<lb/>過去における日本統治下の經濟的<lb/> 實績を詳細はに撿討した後、統一さ<lb/>れた<country key="KR"
+              >朝鮮</country>は自分自身を<distinct type="spelling">支へる</distinct>に足<lb/>
+              るだけの充分な資源と生産手段お<lb/>よび<distinct type="outdated">勞働力</distinct>を待ってゐると評價<distinct
+              type="spelling">し<lb/>てゐる</distinct>。それにはしっかりした政<lb/>
+              府と、そして直ちに財政的、技術<lb/>的、行政的な援助を必要とする<distinct type="spelling">だ<lb/>らう</distinct>」と。</p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn02">
@@ -98,104 +99,105 @@
               >會</distinct>議の<distinct type="outdated">選擧</distinct>を行う<distinct type="outdated"
               >選擧</distinct><lb/>にあたっては<distinct type="outdated">國連委員會</distinct>をオブ<lb/>
               ザ<g>ー</g>ヴァ<g>ー</g>として立<distinct type="outdated"
-            >會わせる</distinct>、そ<lb/>の時期は米政府當局者は今から六<lb/> ヶ月内がよいと<distinct type="spelling"
+              >會わせる</distinct>、そ<lb/>の時期は米政府當局者は今から六<lb/>ヶ月内がよいと<distinct type="spelling"
               >してゐる</distinct></p>
 
           <p>一、朝鮮臨時政府は<distinct type="outdated">國連總會</distinct>が選<lb/>任する、同政府は<distinct
-              type="outdated"><orgName>國連委員會</orgName></distinct>に<lb/> 援助と支持を求めることが<distinct
+              type="outdated"><orgName>國連委員會</orgName></distinct>に<lb/>援助と支持を求めることが<distinct
               type="outdated">出來<lb/>る</distinct></p>
           <p>一、米ソ<distinct type="outdated">兩</distinct>占領案の實際の撤兵時<lb/>期は<distinct type="outdated"
               >國連</distinct>の<distinct type="outdated">會</distinct>議を開いたうえ米<lb/>
-            ・ソ・朝三者間の恊定によって<lb/>決定する </p>
+            ・ソ・朝三者間の恊定によって<lb/>決定する</p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn03">
           <head style="vr">ソ聯徹兵案</head>
           <p><orgName>米ソ公同<distinct type="outdated">委員會</distinct></orgName>のソ連代表は<date
-              when="1947-09-26">九<lb/>月二十六日</date>ソ連側の要求によって<lb/> 開かれた<orgName>共同<distinct
+              when="1947-09-26">九<lb/>月二十六日</date>ソ連側の要求によって<lb/>開かれた<orgName>共同<distinct
                 type="outdated">委員會</distinct></orgName>の席上、米ソ<lb/><distinct type="outdated"
-              >兩</distinct>軍の同時撤退を提議したのち記<lb/> 者團と<distinct type="outdated"
-            >會</distinct>見「朝鮮人民は民主主義<lb/>臨時政府の樹立と同樣、南北を分<lb/> 割する立ソ<distinct type="outdated"
+              >兩</distinct>軍の同時撤退を提議したのち記<lb/>者團と<distinct type="outdated"
+              >會</distinct>見「朝鮮人民は民主主義<lb/>臨時政府の樹立と同樣、南北を分<lb/>割する立ソ<distinct type="outdated"
               >兩</distinct>軍の撤退を希望<distinct type="spelling">して<lb/>ゐる</distinct>、いまや朝鮮人民の<distinct
-              type="outdated">混亂</distinct>を克<lb/> 服して、自主的臨時政府の段階に達<lb/>し、米ソ<distinct
-              type="outdated">兩國</distinct>への撤退要望は<distinct type="outdated">絶對<lb/>
-            的</distinct>なものがある」と語った </p>
+              type="outdated">混亂</distinct>を克<lb/>服して、自主的臨時政府の段階に達<lb/>し、米ソ<distinct type="outdated"
+              >兩國</distinct>への撤退要望は<distinct type="outdated">絶對<lb/> 的</distinct>なものがある」と語った </p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn04">
           <head style="vr">☆南鮮反<distinct type="outdated">對</distinct>・北鮮支持</head>
           <p>北鮮では北朝鮮<distinct type="outdated">勞働黨</distinct>を始め各<lb/>政黨、<distinct type="outdated"
               >社會團體</distinct>は<date when="1947-09-27">二十七日</date>それぞ<lb/>
-            れソ代表の聲明を全幅的に支持す<lb/>るに米側代表はこれを拒絶する<lb/> 何らの理由もないとする談認を<distinct type="outdated"
+              れソ代表の聲明を全幅的に支持す<lb/>るに米側代表はこれを拒絶する<lb/>何らの理由もないとする談認を<distinct type="outdated"
               >發<lb/>表</distinct>した</p>
 
           <p>それに反して南鮮右翼政界の長<lb/>老すなわち<distinct type="outdated">從來</distinct>占領軍の撤退を主<lb/>
-              張し續けて<distinct type="outdated">來た</distinct><persName> >李承晩</persName>博士は「<country
+              張し續けて<distinct type="outdated">來た</distinct><persName>李承晩</persName>博士は「<country
               key="US">米<lb/>國</country>がこの際<country key="RU">ソ連</country>に道を讓ると<distinct
-                type="spelling">いふ</distinct><lb/> 法はない」と<distinct type="spelling">いひ</distinct>又<persName>金奎植氏</persName>も反<lb/>
-            <distinct type="outdated">對して</distinct>おりいずれも撤兵が行われ<lb/> る場合は北鮮の朝鮮人部隊に對抗<lb/><distinct
-              type="outdated">出來る</distinct>武器と軍隊を訓煉すべきだ<lb/> と提唱<distinct type="spelling"
+              type="spelling">いふ</distinct><lb/>法はない」と<distinct type="spelling"
+              >いひ</distinct>又<persName>金奎植氏</persName>も反<lb/>
+            <distinct type="outdated">對して</distinct>おりいずれも撤兵が行われ<lb/>る場合は北鮮の朝鮮人部隊に對抗<lb/><distinct
+              type="outdated">出來る</distinct>武器と軍隊を訓煉すべきだ<lb/>と提唱<distinct type="spelling"
               >してゐる</distinct>。</p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn05">
-          <head style="vr"><persName>金龍中氏</persName> (<orgName>在美國朝鮮人協會</orgName>會長)<lb/>
+          <head style="vr"><persName>金龍中氏</persName>(<orgName>在美國朝鮮人協會</orgName>會長)<lb/>
             五小國委員會提唱</head>
-          <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<persName>金龍中<lb/> 氏</persName>は<country key="US"
-              >米國政府</country>に對して朝鮮から<lb/><distinct type="outdated">兩國連隊</distinct>を同時撤廢受諾するよう提<lb/>
+          <p>一方卅日のワシントン發報道に<lb/>よれば在米朝鮮人協會會長<persName>金龍中<lb/>氏</persName>は<country key="US"
+              >米國政府</country>に對して朝鮮から<distinct type="outdated">兩<lb/>國連隊</distinct>を同時撤廢受諾するよう提<lb/>
               唱した「それんは」と彼はいう「<lb/>軍隊の撤退は<distinct type="outdated">國連</distinct>によって指名さ<lb/>
-            れ五小國委員會によって朝鮮に完<lb/>全に武器が残されないように監視さ<lb/> れねばならぬそれでなければ朝鮮<lb/>に内亂がおこるであらう、米ソ兩<lb/>
-            地區の境は軍隊の撤退が開始され<lb/>る以前に、朝鮮人自身が秩序を保<lb/> ったために開かねばならないもし<lb/><country key="RU"
+            れ五小國委員會によって朝鮮に完<lb/>全に武器が残されないよう監視さ<lb/>れねばならぬそれでなければ朝鮮<lb/>に内亂がおこるであらう、米ソ兩<lb/>
+              地區の境は軍隊の撤退が開始され<lb/>る以前に、朝鮮人自身が秩序を保<lb/>ったために開かねばならないもし<lb/><country key="RU"
               >ソ連</country>が平素いっているように朝鮮<lb/> 人の幸福を願っているのなら當然<lb/>それに同意すげきだ」金氏の主唱<lb/>
               する監視委員會はアジアから<country key="PH">フィ<lb/>リピン</country>か<country key="TH">シャム</country>の一國、歐洲から<lb/>
             <country key="NO">ノルウェ<g>ー</g></country>か<country key="SE"
               >スウェ<g>ー</g>デン</country>の一國<lb/>それに<country key="AU"><distinct type="spelling"
                   >オ<g>ー</g>ストラリヤ</distinct></country>か<country key="NZ">ニュ<g>ー</g>ジ<lb/>
               <g>ー</g>ランド</country>を<distinct type="spelling"
-              >加へる</distinct>、さらに南米お<lb/>よび北米からすづたとへば<country key="MX">メキシ<lb/> コ</country>か<country
+              >加へる</distinct>、さらに南米お<lb/>よび北米からすづたとへば<country key="MX">メキシ<lb/>コ</country>か<country
               key="CA">カナダ</country>を以って構成しようと<lb/>している、また<country key="RU">ソ連</country>と<country
               key="US">米國</country>は<country key="KR">朝鮮</country><lb/>
-            の内政に干渉せず中立を堅持し、<lb/>英國と中國とともに朝鮮の主權と<lb/> 領土保全を保證する事を<distinct type="outdated"
-              >國連</distinct>に誓<lb/>うべきである」とのべてゐる。金<lb/> 氏の主張は率直に我々の氣持ちを<lb/>表し、朝鮮は解放された國であ<lb/>
+              の内政に干渉せず中立を堅持し、<lb/>英國と中國とともに朝鮮の主權と<lb/>領土保全を保證する事を<distinct type="outdated"
+              >國連</distinct>に誓<lb/>うべきである」とのべてゐる。金<lb/>氏の主張は率直に我々の氣持ちを<lb/>表わし、朝鮮は解放された國であ<lb/>
               ると<distinct type="outdated"><distinct type="spelling"
             >云ふ</distinct></distinct>事を主張せんとしてゐる </p>
         </div>
         <lb/>
         <div type="Section" xml:id="Sn06">
           <head style="vr">全<distinct type="outdated">國</distinct>在日朝鮮<distinct type="outdated"
-              >學生</distinct><lb/>社<distinct type="outdated">會</distinct> 思想討論<distinct
+              >學生</distinct><lb/>社<distinct type="outdated">會</distinct>思想討論<distinct
               type="outdated">會</distinct></head>
           <p>第五回全<distinct type="outdated">國</distinct><distinct type="outdated"
               >學生</distinct>思想討論<distinct type="outdated">會</distinct>をさ<lb/>る<date
-              when="1947-09-27">九月二十七日</date> 、<placeName>京都<distinct type="outdated"
+              when="1947-09-27">九月二十七日</date>、<placeName>京都<distinct type="outdated"
               >學</distinct>同中部本<lb/>部</placeName>に於て催された。</p>
 
-          <p>約一五◯名の各地方代表が<distinct type="unk-compound">參席</distinct><lb/>自由討論を<distinct type="spelling">行ひ</distinct>、<distinct
-              type="outdated">學生</distinct>こそ<distinct type="outdated">實踐鬪</distinct><lb/>
-            <distinct type="outdated">爭</distinct> に突進し祖<distinct type="outdated"
+          <p>約一五◯名の各地方代表が<distinct type="unk-compound">參席</distinct><lb/>自由討論を<distinct
+              type="spelling">行ひ</distinct>、<distinct type="outdated">學生</distinct>こそ<distinct
+              type="outdated">實踐鬪</distinct><lb/>
+            <distinct type="outdated">爭</distinct>に突進し祖<distinct type="outdated"
               >國</distinct>再建に盡すべく堅<lb/>き決議をして散<distinct type="outdated">會</distinct>した。討議事項<lb/>
             左の如し</p>
 
-          <p>(一)戰後<distinct type="outdated">國</distinct>際情勢の分析<lb/> １資本主義<distinct type="outdated"
-              >體制</distinct><distinct type="outdated">總體</distinct>的弱化<lb/> ２民主革命勢カの增大<lb/>
-            ３植民地、半植民地民族解放運<lb/>動の激化<lb/> ４<country key="US">米國</country>内<distinct type="outdated"
+          <p>(一)戰後<distinct type="outdated">國</distinct>際情勢の分析<lb/>１資本主義<distinct type="outdated"
+              >體制</distinct><distinct type="outdated">總體</distinct>的弱化<lb/>２民主革命勢カの增大<lb/>
+              ３植民地、半植民地民族解放運<lb/>動の激化<lb/>４<country key="US">米國</country>内<distinct type="outdated"
               >勞</distinct>働運動の激化と反動<lb/>勢カの擡頭<lb/> ５<country key="US"
             >ソ連</country>は世界平和を保障するか<lb/></p>
-          <p>(二)<distinct type="outdated">國</distinct>際情勢と朝鮮獨立<lb/> １<distinct type="outdated"
-              >國</distinct>際「ファッショ」殘滓勢カ<lb/>を徹底的に打倒すること<lb/> ２<distinct type="outdated"
+          <p>(二)<distinct type="outdated">國</distinct>際情勢と朝鮮獨立<lb/>１<distinct type="outdated"
+              >國</distinct>際「ファッショ」殘滓勢カ<lb/>を徹底的に打倒すること<lb/>２<distinct type="outdated"
               >國</distinct>際條約<name type="plan">「カイロ、ボツダム<lb/>三相恊定」</name>を充實に履行する<lb/>こと<lb/>
-              ３政權は人民の手に依り（人民<lb/>委員<distinct type="outdated">會</distinct>）<lb/> ４不法<distinct
+              ３政權は人民の手に依り（人民<lb/>委員<distinct type="outdated">會</distinct>）<lb/>４不法<distinct
               type="outdated">彈壓</distinct>、<distinct type="outdated">檢擧</distinct>の愛<distinct
               type="outdated">國</distinct>者を即<lb/>時釋放<lb/></p>
-          <p>(三)在日同胞の諸問題<lb/> １朝鮮の運動を積極的推進強化<lb/>すること<lb/> ２日本民主勢カと提携、共同鬪<lb/>爭を展開すること<lb/>
-            ３日帝の殘存勢カと反動<distinct type="unk-compound">謀利輩</distinct><lb/>を粉碎すること<lb/></p>
-          <p>(四)在日朝鮮<distinct type="outdated">學生</distinct>の使命<lb/> １<distinct type="outdated"
+          <p>(三)在日同胞の諸問題<lb/>１朝鮮の運動を積極的推進強化<lb/>すること<lb/>２日本民主勢カと提携、共同鬪<lb/>爭を展開すること<lb/>
+              ３日帝の殘存勢カと反動<distinct type="unk-compound">謀利輩</distinct><lb/>を粉碎すること<lb/></p>
+          <p>(四)在日朝鮮<distinct type="outdated">學生</distinct>の使命<lb/>１<distinct type="outdated"
               >學生</distinct>は<distinct type="outdated"
-            >現實</distinct>を直視し眞理を探<lb/>究して理論、水準を相互上<lb/>すること<lb/> ２<distinct type="outdated"
-              >學</distinct>内民主化運動を積極的展開<lb/>すること<lb/> ３在留同胞の啓蒙運動に參加す<lb/>ること<lb/></p>
+              >現實</distinct>を直視し眞理を探<lb/>究して理論、水準を相互上<lb/>すること<lb/>２<distinct type="outdated"
+              >學</distinct>内民主化運動を積極的展開<lb/>すること<lb/>３在留同胞の啓蒙運動に參加す<lb/>ること<lb/></p>
 
           <p>以上の如き結論を單なる空想的な<lb/>机上論として消さず直接<distinct type="outdated">實</distinct>踐行<distinct
-              type="outdated">爲</distinct><lb/> を以って<distinct type="outdated">鬪爭</distinct>せんことを決議した
+              type="outdated">爲</distinct><lb/>を以って<distinct type="outdated">鬪爭</distinct>せんことを決議した
           </p>
         </div>
         <lb/>
@@ -207,7 +209,7 @@
             >出來てゐる</distinct>のだ、もし不可能な<lb/>ことならもうすこし時間がかゝ<lb/>る。忍耐と時間さへあれば不可<lb/>能なことはないわけだ」と。△<lb/>
               永遠の平和を生むために各國の<lb/><distinct type="outdated">名醫</distinct>は<orgName><distinct
                 type="outdated">國連</distinct></orgName>へ集まつた。<distinct type="outdated"
-              >双生兒</distinct><lb/> が生まれた<distinct type="spelling"
+              >双生兒</distinct><lb/> が生れた<distinct type="spelling"
             >やう</distinct>だが、その育てる<lb/>自的迄の方法に於ては同一な意<lb/>
               見が見出されてゐるようだが育<lb/>たてる位置とその環境において<lb/>暑つすぎる寒すぎると<distinct type="outdated"
               >云つて</distinct>難<lb/>關をつゞけてゐる。が多くの醫<lb/> 師がより良き環境と位置を見つ<lb/>けて來れる事で<distinct
@@ -215,12 +217,12 @@
               >變へて</distinct><lb/>ゐる<distinct type="outdated">我國</distinct>
               についての多くの醫<lb/>者が診斷を下して<distinct type="spelling"
               >ゐる</distinct>。しかし<lb/>あまり多くの診斷は我々を惑は<lb/>せ、且つかえつて<distinct type="outdated"
-              >惡化</distinct> せしめる<lb/>ことになる、よりよき診斷は分裂<lb/>を意味するのでは決してなく、<lb/>統一出來ると<distinct
+              >惡化</distinct>せしめる<lb/>事になる、よりよき診斷は分裂<lb/>を意味するのでは決してなく、<lb/>統一出來ると<distinct
               type="spelling">いふ</distinct>それである、<lb/>過去三十六年間の歷史は明らか<lb/>
               に統一出來るということを吾々<lb/>に<distinct type="spelling"
               >示してゐる</distinct>。徒外部のみを見<lb/>て診斷を下すのは彼自身<distinct type="outdated"
               >藪醫者</distinct><lb/>に過ぎないと<distinct type="outdated">云う</distinct><distinct
-              type="outdated">證據</distinct>である。 </p>
+              type="outdated">證據</distinct>である。</p>
         </div>
       </div>
       <lb/>
@@ -238,17 +240,17 @@
             >迎へる</distinct>。</head>
           <p>「ハングルナル」とは朝鮮文字<lb/>（ハングル）記念日のことで李朝<lb/>第四式〇宗二十八年丙寅九月〇日<lb/>即ち一四四年十月二十九日訓民正<lb/>音として<distinct
               type="outdated">發表</distinct><distinct type="outdated"
-            >奬勵</distinct>した表音文字で<lb/>現在は字母二十四文字になってい<lb/> る朝鮮文字の<distinct type="outdated"
+              >奬勵</distinct>した表音文字で<lb/>現在は字母二十四文字になってい<lb/>る朝鮮文字の<distinct type="outdated"
               >發表</distinct>記念日である。</p>
         </div>
 
         <div type="Section" xml:id="Sn09">
           <head style="vr"><distinct type="outdated">國大案反對</distinct>の<distinct type="outdated"
               >聲明</distinct></head>
-          <p>（<distinct type="outdated">京城發</distinct>KNSー<distinct type="outdated"
-              >東亞</distinct>）<distinct type="outdated"
+          <p><g>（</g><distinct type="outdated">京城發</distinct>KNSー<distinct type="outdated"
+              >東亞</distinct><g>）</g><distinct type="outdated"
               ><orgName>國大案反<lb/>對共同鬪爭委員會</orgName></distinct>では現情勢に<distinct type="outdated"
-              >對<lb/>處</distinct>して教育民主化を促進する <distinct type="outdated"
+              >對<lb/>處</distinct>して教育民主化を促進する<distinct type="outdated"
               >爲</distinct>三<lb/>十一日左の如き<distinct type="outdated">聲明</distinct>を<distinct
               type="outdated">發表</distinct>した</p>
 
@@ -257,7 +259,7 @@
           <p>二、近き<distinct type="outdated">將來</distinct>に樹立する南北統一<lb/>民主臨時政府に<distinct
               type="outdated">對し</distinct><distinct type="outdated"
               >國大案撤回</distinct><lb/>を全<distinct type="outdated">學</distinct>徒の<distinct
-              type="outdated">名儀</distinct>で要求する事の <lb/>出來る條件を確保する</p>
+              type="outdated">名儀</distinct>で要求する事の<lb/>出來る條件を確保する</p>
           <p>三、理事<distinct type="outdated">會</distinct>改選、<distinct type="outdated"
             >總</distinct>長交代</p>
           <p>四、反動教育策打破民主臨時政<lb/>府樹立と◯委再開促進等協力に<lb/>成功成果を揚げこの運動に長期<lb/>化して<distinct type="outdated"
@@ -265,7 +267,7 @@
             >留學</distinct>と脱<lb/>落者の糾合策動する危性のある<lb/>ことを指摘する。</p>
 
           <p>國大案を反對して今年二月南朝<lb/>鮮<unclear reason="faded">十</unclear>萬の男女<distinct type="outdated"
-              >學</distinct>生が一<distinct type="outdated">齊</distinct>にけつ起こ<lb/>した以後、六ヶ月<distinct
+              >學</distinct>生が一<distinct type="outdated">齊</distinct>にけつ起<lb/>した以後、六ヶ月<distinct
               type="outdated">餘掛り</distinct>反動的<distinct type="outdated">國</distinct><lb/>
               大案撤回に努力すると共に左の要<lb/>求<distinct type="outdated">條項</distinct>を<distinct type="spelling"
                 ><distinct type="outdated">發表</distinct>してゐる</distinct>。</p>
@@ -284,7 +286,7 @@
           <p>（二十五日<distinct type="outdated">發</distinct>北朝通）同大<distinct type="outdated"
               >學醫學<lb/>部</distinct>にてはベニシリン原<distinct type="outdated"
               >菌</distinct>培養を研<lb/>究中だつたが成功したと<distinct type="outdated"
-            >發表</distinct>した<lb/>「研究に精進中だつたがその基本<lb/>構造の研究を完遂し強力 <distinct type="outdated"
+              >發表</distinct>した<lb/>「研究に精進中だつたがその基本<lb/>構造の研究を完遂し強力<distinct type="outdated"
               >菌</distinct>の培養<lb/>方法も成功した。今迄製造された<lb/><distinct type="spelling"
               >ベニシリン</distinct>の外科的治療の<distinct type="outdated"
               >試驗</distinct>は<lb/>良い結果を見たいと創立一週年記<lb/>念<distinct type="outdated"
@@ -301,9 +303,10 @@
         <head>主張</head>
         <head style="vr"><distinct type="outdated">學</distinct>同の在り方</head>
         <p>在日朝鮮人留<distinct type="outdated">學</distinct>生は代表<distinct type="outdated"
-            >機關</distinct>た<lb/>る<distinct type="outdated">學</distinct>生同盟するに至つた必然性や<distinct
+            >機關</distinct>た<lb/>る<distinct type="outdated">學</distinct>生同盟と<distinct type="spelling"
+            >いふ</distinct><distinct type="outdated">團體</distinct>機構をもつ<lb/>た、組織するに至つた必然性や<distinct
             type="outdated">學</distinct><lb/>同の趣旨に<distinct type="outdated">對</distinct>し客<distinct
-            type="outdated">觀的觀察</distinct>から離<lb/> れ<distinct type="outdated"
+            type="outdated">觀的觀察</distinct>から離<lb/>れ<distinct type="outdated"
             >一應學同</distinct>の<distinct type="outdated">主體</distinct>なる在方を最も<lb/><distinct
             type="outdated">主觀點</distinct>に説いて見たいと<distinct type="spelling">思ふ</distinct>。</p>
 
@@ -315,11 +318,11 @@
         <p>改まつて述べる<lb/>までもなく、<distinct type="outdated">學</distinct>同<lb/>は、我々<distinct
             type="outdated">學</distinct>生に依<lb/>る組織である。し<lb/>たがつて我々<distinct type="outdated"
             >學</distinct>生<lb/>の集まりであり、<distinct type="outdated">結合體</distinct>である。<lb/><distinct
-            type="outdated">學</distinct> 生を離れての<distinct type="outdated"
+            type="outdated">學</distinct>生を離れての<distinct type="outdated"
             >學</distinct>同はあり得ない<lb/>然らば<distinct type="outdated">學</distinct>生は、はたして<distinct
             type="outdated">主體</distinct>と<lb/>ずべき自己の<distinct type="outdated"
             >學</distinct>問的努力を<distinct type="spelling">なして<lb/>ゐる</distinct>と<distinct
-            type="spelling">いへる</distinct> だろうか、斯る質問<lb/>は「<distinct type="outdated"
+            type="spelling">いへる</distinct>だろうか、斯る質問<lb/>は「<distinct type="outdated"
             >學</distinct>生」と<distinct type="spelling">いふ</distinct>一言をもつて答<lb/>へ得ると<distinct
             type="spelling">いふ</distinct>否しからず必ら<lb/>ずしも否定し得るものではない。<lb/><distinct type="outdated"
             >眞劔</distinct>にしかも眞面目な自己反省<lb/>を必要とする問題である。つまり<lb/> 原因はせておき、近頃の<distinct type="outdated"
@@ -342,7 +345,7 @@
             >いふ</distinct>人間の愚かなる<distinct type="outdated">行爲</distinct><lb/>を愚かな日本帝<distinct
             type="outdated">國</distinct>主義者等は<distinct type="spelling"
             >敢へ<lb/>て</distinct>成し、敗北の足跡が<distinct type="outdated">現狀</distinct>の日本<lb/><distinct
-            type="outdated">學</distinct> 生をしから<distinct type="spelling">しめてゐる</distinct>。</p>
+            type="outdated">學</distinct>生をしから<distinct type="spelling">しめてゐる</distinct>。</p>
 
         <p>日本<distinct type="outdated">學</distinct>園の中に<distinct type="outdated"
             >學ぶ</distinct>私達朝鮮<distinct type="outdated">學</distinct><lb/>生は彼等がより<distinct
@@ -359,14 +362,14 @@
             >言ふ</distinct>べき、綱領<lb/>は<distinct type="outdated"
             >單なる</distinct>組織上の<lb/>法言であつてはならない、如何に<lb/><distinct type="outdated"
             >美辭麗句</distinct>を並べても形式的な机上<lb/>論であつては、結局死<distinct type="outdated"
-            >兒</distinct>の<distinct type="outdated">齡</distinct> を<distinct type="spelling"
+            >兒</distinct>の<distinct type="outdated">齡</distinct>を<distinct type="spelling"
             >數<lb/>へる</distinct>に等しく<distinct type="spelling">ならう</distinct>。</p>
 
         <p>その綱領に<distinct type="spelling">教へる</distinct>ごとく、我々<lb/>は<distinct type="outdated"
             >將</distinct>に自由である。無限の<distinct type="outdated">學</distinct>海の<lb/>大海原を我々は泳がんと<distinct
             type="spelling">してゐる</distinct><lb/>その道の左右は<distinct type="outdated"
-            >實</distinct>に我々自身にあ<lb/>り、<distinct type="outdated">歷史</distinct>
-          の史流れにある、その自由<lb/>を防止する何物もない防止し得る<lb/>ものでもない。又あつてはならな<lb/>い。</p>
+            >實</distinct>に我々自身にあ<lb/>り、<distinct type="outdated"
+          >歷史</distinct>の史流れにある、その自由<lb/>を防止する何物もない防止し得る<lb/>ものでもない。又あつてはならな<lb/>い。</p>
 
         <p>眞の<distinct type="outdated">學</distinct>問的自由は我々に<distinct type="spelling"
             >與へら<lb/>れてゐる</distinct>、それは世界の<distinct type="outdated">歷史</distinct>的事<lb/><distinct
@@ -375,8 +378,8 @@
         <p><distinct type="outdated">學</distinct>問的自由なる精神は自由なる<lb/><distinct type="outdated"
             >學</distinct>理を探究せしめる、即ち自由な<lb/>る<distinct type="outdated"
             >學</distinct>理の探究は、直接苦難の祖<distinct type="outdated"
-            >國</distinct><lb/>建設への血管に入れ込まねばなら<lb/>ず<distinct type="outdated">國家將來</distinct>
-            の<distinct type="outdated">發展的</distinct> 建設へと活動<lb/>せねばならない。</p>
+            >國</distinct><lb/>建設への血管に入れ込まねばなら<lb/>ず<distinct type="outdated"
+            >國家將來</distinct>の<distinct type="outdated">發展的</distinct>建設へと活動<lb/>せねばならない。</p>
 
         <p>熱情に滿つる<distinct type="outdated">學</distinct>生青年の創造的<lb/>精神、人格的教養精神は世界文化<lb/>に<distinct
             type="outdated">寄與</distinct>するものである。</p>
@@ -384,13 +387,13 @@
         <p>以上<distinct type="outdated">簡單</distinct>に述べた綱領の概説は<lb/>我々<distinct type="outdated"
             >學</distinct>生が、又<distinct type="outdated">學</distinct>同が自<distinct type="outdated"
             >覺</distinct>し、<distinct type="outdated">觀<lb/>念的</distinct>な空想でなく、強く<distinct
-            type="outdated">主觀的</distinct>自<lb/><distinct type="outdated">覺</distinct>
-            性を以つて<distinct type="outdated">賢實</distinct>なる理想を媒介<lb/>とし、飽くまでも<distinct
-            type="outdated">實踐</distinct>にともなつ<lb/>た、<distinct type="outdated"
-            >現實</distinct>の<distinct type="outdated">主體性</distinct>にあらねばなら<lb/>ないのである、政治的、<distinct
-            type="outdated">經濟的</distinct>、<lb/><distinct type="outdated">混亂</distinct> から社<distinct
-            type="outdated">會</distinct>的不道<distinct type="outdated">德</distinct>にとも<distinct
-            type="spelling">なふ</distinct><lb/>日常生活の不安定、<distinct type="outdated"
+            type="outdated">主觀的</distinct>自<lb/><distinct type="outdated">覺</distinct>性を以つて<distinct
+            type="outdated">賢實</distinct>なる理想を媒介<lb/>とし、飽くまでも<distinct type="outdated"
+            >實踐</distinct>にともなつ<lb/>た、<distinct type="outdated">現實</distinct>の<distinct
+            type="outdated">主體性</distinct>にあらねばなら<lb/>ないのである、政治的、<distinct type="outdated"
+            >經濟的</distinct>、<lb/><distinct type="outdated">混亂</distinct>から社<distinct type="outdated"
+            >會</distinct>的不道<distinct type="outdated">德</distinct>にとも<distinct type="spelling"
+            >なふ</distinct><lb/>日常生活の不安定、<distinct type="outdated"
             >墮落</distinct>、平和な<lb/>文化再建への絶望等々ありとあら<lb/>ゆる<distinct type="unk-compound"
             >絶望感及至虛無感</distinct>は我々<distinct type="outdated">學</distinct>生<lb/>
             、生活に強く直接、間接に大きな<lb/>影響を<distinct type="spelling">及ぼしてゐる</distinct>のは事<distinct
@@ -404,12 +407,12 @@
         <p>ましてや我々留日<distinct type="outdated">學</distinct>生の大半は<lb/>勉<distinct type="outdated"
             >學</distinct>の爲留まり本<distinct type="outdated">國</distinct>との連絡も殆<lb/>んど皆無に等しく勿論<distinct
             type="outdated">學</distinct>資の援助<lb/>なども無いのである、斯樣な<distinct type="outdated"
-            >混亂</distinct><lb/>せる社會の不安定と<distinct type="outdated">經濟的</distinct> な生活<lb/>に<distinct
+            >混亂</distinct><lb/>せる社會の不安定と<distinct type="outdated">經濟的</distinct>な生活<lb/>に<distinct
             type="spelling"><distinct type="outdated"
             >惱</distinct>まされてゐる</distinct>事は自他共に認<lb/>めねばならない。問題は小さい樣<lb/>で大きな<distinct
             type="outdated">國家將來</distinct>への問題である<lb/><distinct type="outdated"
             >單なる</distinct>一時的な<distinct type="outdated">經濟的</distinct>苦痛ではな<lb/>い<distinct
-            type="outdated">學</distinct> 生と離し得ぬ問題<distinct type="outdated"
+            type="outdated">學</distinct>生と離し得ぬ問題<distinct type="outdated"
             >學</distinct>問、即ち<lb/>綱領に述べる如く<distinct type="outdated"
             >學</distinct>理的探究に集<lb/>中的に專念し得ぬ<distinct type="outdated"
           >危機</distinct>を生む恐れ<lb/>があるからである。</p>
@@ -422,12 +425,12 @@
             >團體</distinct>でも<distinct type="spelling">なけれぱ</distinct><distinct type="outdated"
             >經<lb/>濟的</distinct><distinct type="outdated"
             >營利團體</distinct>でもない、理論的に<lb/>批判する者も<distinct type="spelling"
-            >あらう</distinct>が、思想的な<lb/>政治運動は<distinct type="outdated">危險試</distinct> である。<distinct
+            >あらう</distinct>が、思想的な<lb/>政治運動は<distinct type="outdated">危險試</distinct>である。<distinct
             type="outdated">學</distinct>理的に<lb/><distinct type="outdated"
             >學</distinct>生個人の又は、<distinct type="outdated">學</distinct>同自身の研究<lb/>討論會、<distinct
             type="outdated">發表會</distinct>、を<distinct type="spelling"
             >言ふ</distinct>のではな<lb/>い、要するに<distinct type="outdated"
-          >學</distinct>同其ものゝ在り方<lb/>を指すのである、無論社 <distinct type="outdated"
+            >學</distinct>同其ものゝ在り方<lb/>を指すのである、無論社<distinct type="outdated"
             >會</distinct>を離れ<lb/>ての<distinct type="outdated">學</distinct>生でも<distinct
             type="outdated">學</distinct>同でもない故に社<lb/><distinct type="outdated"
             >會</distinct>の動き、思想の流れを<distinct type="outdated">傍觀</distinct>せよ<lb/>と<distinct
@@ -436,8 +439,8 @@
         <p>要は我々は外<distinct type="outdated">國</distinct>に留<distinct type="outdated"
             >學</distinct><distinct type="spelling">してゐる</distinct><lb/><distinct type="outdated"
             >學び</distinct>の青年即ち總てを<distinct type="outdated">學</distinct>問の<distinct type="outdated"
-            >爲</distinct>に<lb/>集中せしめねばならないのである<lb/>代表<distinct type="outdated">機關</distinct>
-            たる<distinct type="outdated">學</distinct>同自身が<distinct type="outdated"
+            >爲</distinct>に<lb/>集中せしめねばならないのである<lb/>代表<distinct type="outdated"
+            >機關</distinct>たる<distinct type="outdated">學</distinct>同自身が<distinct type="outdated"
             >客觀的</distinct><lb/>に行動する事なく<distinct type="outdated"
           >絶對主觀的</distinct>にあ<lb/>らねばならないのである。</p>
 
@@ -457,26 +460,26 @@
         <p>日本に存在する朝鮮留<distinct type="outdated">學</distinct>生よ！<lb/>環境の現<distinct type="outdated"
             >實</distinct>を理解せよ、今我々が<lb/>住む所は外<distinct type="outdated">國</distinct>であり、外<distinct
             type="outdated">國</distinct>の<distinct type="outdated">學</distinct>園<lb/>に於て外<distinct
-            type="outdated">國</distinct>語で<distinct type="outdated">學ぶ</distinct> 留<distinct
+            type="outdated">國</distinct>語で<distinct type="outdated">學ぶ</distinct>留<distinct
             type="outdated">學</distinct>生である<lb/>朝鮮人留<distinct type="outdated"
             >學</distinct>生たる自<distinct type="outdated">覺</distinct>を忘れては<lb/>ならない、祖<distinct
             type="outdated">國</distinct>は我々<distinct type="outdated"
             >學</distinct>生に如何<lb/>程の期待をもち、如何程の負務を<lb/><distinct type="spelling"
-            >與へん</distinct>と<distinct type="spelling">してゐる</distinct> が、それは<distinct type="outdated"
+            >與へん</distinct>と<distinct type="spelling">してゐる</distinct>が、それは<distinct type="outdated"
             >實</distinct>に<lb/>「大なる」の一言に外ないのであ<lb/>る、少くも<distinct type="outdated"
             >學</distinct>同はその指導者とし<lb/>て今後の活動を<distinct type="spelling"
             >せねぱ</distinct>ならない！<lb/>わけても祖<distinct type="outdated"
             >國</distinct>は今日極めて嚴しい<lb/><distinct type="outdated">歷史</distinct>的現<distinct
-            type="outdated">實</distinct> の中に<distinct type="spelling"
+            type="outdated">實</distinct>の中に<distinct type="spelling"
             >立つてゐる</distinct>、我<lb/>々の祖先、また我々自身が嘗つて<lb/><distinct type="outdated"
             >經試</distinct>した事のない<distinct type="outdated">歷史</distinct>的現<distinct type="outdated"
             >實</distinct>であ<lb/>る、この現<distinct type="outdated"
             >實</distinct>と共に我々朝鮮人は<lb/>大いなる苦難を背負い、過去の絶<lb/>望と悲哀から<distinct type="outdated"
-            >榮光</distinct> をあびて雄々し<lb/>く立上り、苦難を打開し現<distinct type="outdated"
+            >榮光</distinct>をあびて雄々し<lb/>く立上り、苦難を打開し現<distinct type="outdated"
             >實</distinct>の新<lb/>しき<distinct type="outdated"
             >國</distinct>家建設に努力せねばならぬ<lb/>我々同胞の全部が、通切にそれ<lb/>を自<distinct type="outdated"
             >覺</distinct>するところである、故に問<lb/>題は新しき<distinct type="outdated"
-            >國</distinct>家形態の建設、新し<lb/>き<distinct type="outdated">國</distinct> 民の形成、<distinct
+            >國</distinct>家形態の建設、新し<lb/>き<distinct type="outdated">國</distinct>民の形成、<distinct
             type="outdated">祖國將來</distinct>への<distinct type="outdated"
           >發展</distinct><lb/>的建設であらねばならないのであ<lb/>る。</p>
 
@@ -488,16 +491,16 @@
 
         <p>そうした<distinct type="outdated">混亂</distinct>の中にある祖<distinct type="outdated"
             >國</distinct>を<lb/>直接<distinct type="spelling">救ひ</distinct>得られぬ我々在日留<distinct
-            type="outdated">學</distinct>生<lb/>も無論　現<distinct type="outdated"
+            type="outdated">學</distinct>生<lb/>も無論現<distinct type="outdated"
             >實</distinct>以上の苦難の精神的<lb/>現<distinct type="outdated">實</distinct>に<distinct
-            type="outdated">惱</distinct>
-          <distinct type="spelling">されてゐる</distinct>、この時に偉<lb/>大なる孟子の有名な言葉を知る。</p>
+            type="outdated">惱</distinct><distinct type="spelling"
+          >されてゐる</distinct>、この時に偉<lb/>大なる孟子の有名な言葉を知る。</p>
 
         <p>「天が人に大任を下さんとする<lb/>とき、先つ人を<distinct type="outdated"
             >迅境</distinct>に置いて苦し<lb/>め試練する」誠に意味探い<distinct type="spelling"
             >教へ</distinct>と<lb/><distinct type="spelling">言はねば</distinct>ならぬ、我々の<distinct
             type="spelling">今受けて<lb/>ゐる</distinct>苦痛は<distinct type="outdated"
-            >將</distinct>に試練であらねばな<lb/>らぬ、故に問題は<distinct type="outdated">學</distinct> 生による<distinct
+            >將</distinct>に試練であらねばな<lb/>らぬ、故に問題は<distinct type="outdated">學</distinct>生による<distinct
             type="outdated">學</distinct>同<lb/>の<distinct type="outdated">主體性</distinct>があらねばならぬ。</p>
 
       </div>

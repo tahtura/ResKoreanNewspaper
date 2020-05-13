@@ -36,9 +36,11 @@
     uses of Kanji and Kana. It was then annotated with oXygen XML Editor and Atom programs using standards from the Text Encoding Initiative (TEI). TEI is a specific practice
     within the Digital Humanities field that typically focuses on examining and analyzing textual materials. Using XML code, important aspects of a text are "tagged" with elements.
     For example, if a famous historical figure's name were to appear in a text, it could be tagged with the Person Name element "persName". An example of the XML code within a text would be: </p>
+    <blockquote>
     <code>
-      This piece discusses a novelist named &#60;persName>Yū Miri&#60;/persName>.
+      "This piece discusses a novelist named &#60;persName>Yū Miri&#60;/persName>."
     </code>
+  </blockquote>
     <br/><br/>
     The following is an excerpt of XML code specifically from this project. It annotates Section 4 of Article 01:<br/>
     <code>
@@ -65,10 +67,10 @@
     </blockquote>
   </code>
   The "distinct" element was used to indicate linguistic points of interest. The "type" attribute within the element specifies tagged terms as "outdated" (historical Kanji), "spelling" (traditional
-  orthography), or "unk-compound" (unknown kanji compound suspected to be Hanja). Other elements include date, country, and persName. The Div and Head elements simply indicate that this text is a section
+  orthography), or "unk-compound" (unknown kanji compound suspected to be Hanja). Other elements include date, country, and persName. The Div elements simply indicate that this text is a section
   of the document, and the Head is the title (or head) of the section. The "lb" elements indicate line breaks to mimic the structure of the original document pages.<br/><br/>
   </section>
-    For more information on the TEI elements used to annotate this document, please see the <a href="data/schema/tei_jp.odd">TEI ODD documentation</a>
+    For more information on the TEI elements used to annotate this document, please see the <a href="data/schema/tei_jp.odd">TEI ODD documentation</a>.
     <br/>
     <p><u>Text Legend</u></p>
     <p style="text-indent: 50px">Given the many TEI elements used to indicate aspects of the text such as organization names, historical spelling, and more, CSS was used
@@ -86,9 +88,9 @@
 
     <p style="text-indent: 50px">Below is the full text of the first page of the <i>Chousen Ryuugakusei Shimbun</i> published on October 20th, 1947. After the title, header,
     and publishing information, there are three main articles. Within each article are several sub-articles, noted by their vertically-oriented titles. This text is marked
-    by color, as indicated by the legend above. After the Japanese text is a rough translation of the first main article. Due to time constraints of the project, the first
-    article has a rough English translation provided. Future directions for this work could include additional translation work, working with the remaining three pages of
-    the document, matching TEI of the English translation for better comprehension by non-Japanese speakers, providing links that give additional information for certain
+    by color, as indicated by the legend above.  Due to time constraints of the project, only the first
+    article has a rough English translation provided below the Japanese transcription. Future directions for this work could include additional translation work, working with the remaining three pages of
+    the document, matching TEI for the English translation for better comprehension by non-Japanese speakers, providing links that give additional information for certain
     tagged elements such as biographies for persons whose names appear, and refining TEI elements to best describe the piece in both syntactic and historically contextual senses.</p>
 
     <br/>
